@@ -1,0 +1,22 @@
+{
+  "name": "samsun-atakum-emlak-takip",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Samsun Atakum (Atakent / Korfez) kiralik-satilik daire takibi, Telegram bildirimli",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "scan": "node src/index.ts",
+    "scan:dry": "node src/index.ts --dry-run",
+    "geo": "node scripts/fetch-geo.ts",
+    "telegram:test": "node scripts/test-telegram.ts",
+    "test": "node --test \"tests/**/*.test.ts\"",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "5.9.2",
+    "@types/node": "24.3.0"
+  }
+}

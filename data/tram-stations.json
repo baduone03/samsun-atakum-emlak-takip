@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Yaşam Merkezi",
+    "lat": 41.3659865,
+    "lng": 36.1879321
+  },
+  {
+    "name": "Eğitim Fakültesi",
+    "lat": 41.3689007,
+    "lng": 36.1896057
+  },
+  {
+    "name": "Sağlik Bilimleri",
+    "lat": 41.3672398,
+    "lng": 36.1942133
+  },
+  {
+    "name": "OMÜ Yurtlar",
+    "lat": 41.3713995,
+    "lng": 36.1963404
+  },
+  {
+    "name": "Diş Hekimliği",
+    "lat": 41.3672876,
+    "lng": 36.2039503
+  },
+  {
+    "name": "Tıp Fakültesi",
+    "lat": 41.371858,
+    "lng": 36.2085601
+  },
+  {
+    "name": "Lojmanlar",
+    "lat": 41.3759481,
+    "lng": 36.2212229
+  },
+  {
+    "name": "Eczaneler",
+    "lat": 41.3713404,
+    "lng": 36.2253076
+  },
+  {
+    "name": "Körfez",
+    "lat": 41.3667285,
+    "lng": 36.2272043
+  },
+  {
+    "name": "Pelitköy",
+    "lat": 41.3614197,
+    "lng": 36.2298826
+  },
+  {
+    "name": "Kurupelit",
+    "lat": 41.3555405,
+    "lng": 36.2347352
+  },
+  {
+    "name": "Yeni Mahalle",
+    "lat": 41.3508577,
+    "lng": 36.2382636
+  },
+  {
+    "name": "Atakent",
+    "lat": 41.3433117,
+    "lng": 36.2454686
+  },
+  {
+    "name": "Çobanlı",
+    "lat": 41.339019,
+    "lng": 36.2520764
+  },
+  {
+    "name": "Ömürevleri",
+    "lat": 41.3362385,
+    "lng": 36.2598935
+  },
+  {
+    "name": "Türk-İş",
+    "lat": 41.3323554,
+    "lng": 36.2697076
+  },
+  {
+    "name": "Mimar Sinan",
+    "lat": 41.3291023,
+    "lng": 36.2826374
+  },
+  {
+    "name": "Atakum Belediyesi",
+    "lat": 41.3272664,
+    "lng": 36.2862091
+  },
+  {
+    "name": "Denizevleri",
+    "lat": 41.3242119,
+    "lng": 36.2956898
+  },
+  {
+    "name": "Karayolları",
+    "lat": 41.3231641,
+    "lng": 36.3055413
+  },
+  {
+    "name": "Güzel Sanatlar",
+    "lat": 41.3219174,
+    "lng": 36.3134639
+  },
+  {
+    "name": "Baruthane - Kalkancı",
+    "lat": 41.3207185,
+    "lng": 36.3219396
+  },
+  {
+    "name": "Gençlik Parkı",
+    "lat": 41.3051051,
+    "lng": 36.3318941
+  },
+  {
+    "name": "Liman",
+    "lat": 41.2995335,
+    "lng": 36.332337
+  },
+  {
+    "name": "Büyük Cami / Opera",
+    "lat": 41.2955538,
+    "lng": 36.3336939
+  },
+  {
+    "name": "Samsun Müzesi / Fener",
+    "lat": 41.3094907,
+    "lng": 36.3349507
+  },
+  {
+    "name": "Cumhuriyet Meydanı",
+    "lat": 41.2905303,
+    "lng": 36.3366357
+  },
+  {
+    "name": "Gar",
+    "lat": 41.2867094,
+    "lng": 36.3405275
+  },
+  {
+    "name": "Kılıçdede",
+    "lat": 41.2825953,
+    "lng": 36.3463123
+  }
+]

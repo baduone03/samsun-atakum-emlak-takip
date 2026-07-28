@@ -1,0 +1,49 @@
+name: Emlak taramasi
+
+on:
+  schedule:
+    # Saat basi yogunlugundan kacinmak icin :17'de calisir (UTC).
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  # state/seen.json dosyasini repoya geri yazabilmek icin.
+  contents: write
+
+concurrency:
+  group: emlak-taramasi
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Taramayi calistir
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node src/index.ts
+
+      - name: Gorulen ilanlari kaydet
+        # Tarama basarisiz olduysa state'e dokunma - ilanlar kaybolmus gibi gorunmesin.
+        if: success()
+        run: |
+          if [ -z "$(git status --porcelain state/)" ]; then
+            echo "Degisiklik yok."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/
+          git commit -m "chore: gorulen ilanlari guncelle"
+          # Es zamanli calisma olasiligina karsi once uzaktakini al.
+          git pull --rebase --autostash
+          git push
