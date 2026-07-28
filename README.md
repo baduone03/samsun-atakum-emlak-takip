@@ -128,8 +128,13 @@ Fiyat artışları bildirilmez.
 - **Cron**: saat başı (`:17` UTC). Değiştirmek için
   [.github/workflows/scan.yml](.github/workflows/scan.yml). Private repo Actions kotası 2000 dk/ay;
   saatlik tarama ~720–900 dk/ay tutar. Kısmak için cron'u `17 6-23 * * *` yapabilirsin.
-- **Durum**: `state/seen.json` her koşuda `github-actions[bot]` tarafından repoya geri commit edilir.
-  Aynı ilan için ikinci kez bildirim gitmemesini bu dosya sağlar.
+- **Durum**: `state/seen.json` yalnızca gerçekten bir şey değiştiğinde (yeni ilan, fiyat değişimi,
+  detay tamamlanması) `github-actions[bot]` tarafından repoya geri commit edilir. Sessiz koşular
+  dosyayı bayt bayt aynı bıraktığı için boş commit üretmez. Aynı ilan için ikinci kez bildirim
+  gitmemesini bu dosya sağlar.
+- **Detay tamamlama**: koşu başına en fazla 40 detay çekildiği için ilk koşudan sonra bazı ilanlar
+  koordinatsız kalır; sonraki koşular bunları kaldığı yerden tamamlar (~40/saat). Detayı henüz
+  alınmamış bir ilanın fiyatı düşerse bildirim mesafe satırı olmadan gider.
 - **Engellenme**: emlakjet, GitHub Actions runner IP'lerini engellemiyor — bulutta çalıştırılan
   dry-run taraması yereldekiyle birebir aynı sonucu verdi (1117 ilan, 2 dk 30 sn). İleride
   engellenirse `state` dosyasına dokunulmaz, Telegram'a uyarı mesajı gider ve iş kırmızı biter;
