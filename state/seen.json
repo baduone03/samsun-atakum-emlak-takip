@@ -1,11 +1,10 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28T17:24:33.723Z",
+  "updatedAt": "2026-07-28T17:33:26.275Z",
   "listings": {
     "16705618": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -17,7 +16,6 @@
     "17479887": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -29,7 +27,6 @@
     "17480001": {
       "price": 1990000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -41,7 +38,6 @@
     "17480002": {
       "price": 2000000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -53,7 +49,6 @@
     "17480027": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -65,7 +60,6 @@
     "17496044": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -77,7 +71,6 @@
     "17606071": {
       "price": 1990000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -89,7 +82,6 @@
     "17621552": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -101,7 +93,6 @@
     "17703677": {
       "price": 1980000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -113,7 +104,6 @@
     "17718036": {
       "price": 25500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -125,7 +115,6 @@
     "17740850": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -137,7 +126,6 @@
     "18186226": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -149,7 +137,6 @@
     "18213373": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -161,7 +148,6 @@
     "18288146": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -173,7 +159,6 @@
     "18365086": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -185,7 +170,6 @@
     "18390317": {
       "price": 2375000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -197,7 +181,6 @@
     "18390537": {
       "price": 2025000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -209,7 +192,6 @@
     "18463387": {
       "price": 2420000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -221,7 +203,6 @@
     "18510606": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -233,7 +214,6 @@
     "18596137": {
       "price": 2030000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -245,7 +225,6 @@
     "18624696": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -257,7 +236,6 @@
     "18632009": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -269,7 +247,6 @@
     "18655320": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -281,7 +258,6 @@
     "18669282": {
       "price": 2100000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -293,7 +269,6 @@
     "18680487": {
       "price": 12999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -305,7 +280,6 @@
     "18716005": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -317,7 +291,6 @@
     "18723230": {
       "price": 1825000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -329,7 +302,6 @@
     "18730037": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -341,7 +313,6 @@
     "18730135": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -353,7 +324,6 @@
     "18762737": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -365,7 +335,6 @@
     "18798095": {
       "price": 13900,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -377,7 +346,6 @@
     "18818878": {
       "price": 2375000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -389,7 +357,6 @@
     "18819470": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -401,7 +368,6 @@
     "18819488": {
       "price": 2000000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -413,7 +379,6 @@
     "18823146": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -425,7 +390,6 @@
     "18833519": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -437,7 +401,6 @@
     "18833524": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -449,7 +412,6 @@
     "18837233": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -461,7 +423,6 @@
     "18849228": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -473,7 +434,6 @@
     "18873398": {
       "price": 2100000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -485,7 +445,6 @@
     "18895648": {
       "price": 2125000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -497,7 +456,6 @@
     "18945236": {
       "price": 1999000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -509,7 +467,6 @@
     "18966340": {
       "price": 16650,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -521,7 +478,6 @@
     "18971044": {
       "price": 1999999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -533,7 +489,6 @@
     "19017861": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -545,7 +500,6 @@
     "19031470": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -557,7 +511,6 @@
     "19033044": {
       "price": 2345000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -569,7 +522,6 @@
     "19033082": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -581,7 +533,6 @@
     "19033118": {
       "price": 1985000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -593,7 +544,6 @@
     "19033121": {
       "price": 2235000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -605,7 +555,6 @@
     "19033122": {
       "price": 2340000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -617,7 +566,6 @@
     "19033125": {
       "price": 2340000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -629,7 +577,6 @@
     "19033141": {
       "price": 2165000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -641,7 +588,6 @@
     "19036307": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -653,7 +599,6 @@
     "19036468": {
       "price": 2000000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -665,7 +610,6 @@
     "19044526": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -677,7 +621,6 @@
     "19070925": {
       "price": 2375000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -689,7 +632,6 @@
     "19075284": {
       "price": 2420000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -701,7 +643,6 @@
     "19075299": {
       "price": 2090000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -713,7 +654,6 @@
     "19075482": {
       "price": 2325000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -725,7 +665,6 @@
     "19075687": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -737,7 +676,6 @@
     "19077063": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -749,7 +687,6 @@
     "19080996": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -761,7 +698,6 @@
     "19093789": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -773,7 +709,6 @@
     "19119894": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -785,7 +720,6 @@
     "19136986": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -797,7 +731,6 @@
     "19144320": {
       "price": 21000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -809,7 +742,6 @@
     "19148331": {
       "price": 2050000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -821,7 +753,6 @@
     "19150397": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -833,7 +764,6 @@
     "19161511": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -845,7 +775,6 @@
     "19168702": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -857,7 +786,6 @@
     "19174333": {
       "price": 2200000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -869,7 +797,6 @@
     "19185977": {
       "price": 10500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -881,7 +808,6 @@
     "19191303": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -893,7 +819,6 @@
     "19192456": {
       "price": 9750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -905,7 +830,6 @@
     "19197515": {
       "price": 10000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -917,7 +841,6 @@
     "19197517": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -929,7 +852,6 @@
     "19197798": {
       "price": 21500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -941,7 +863,6 @@
     "19204385": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -953,7 +874,6 @@
     "19205255": {
       "price": 2225000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -965,7 +885,6 @@
     "19206867": {
       "price": 1840000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -977,7 +896,6 @@
     "19220360": {
       "price": 2325000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -989,7 +907,6 @@
     "19220373": {
       "price": 2325000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1001,7 +918,6 @@
     "19225623": {
       "price": 2395000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1013,7 +929,6 @@
     "19232766": {
       "price": 2050000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1025,7 +940,6 @@
     "19232782": {
       "price": 2200000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1037,7 +951,6 @@
     "19234213": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1049,7 +962,6 @@
     "19240173": {
       "price": 2070000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1061,7 +973,6 @@
     "19241674": {
       "price": 2000000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1073,7 +984,6 @@
     "19242785": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1085,7 +995,6 @@
     "19243418": {
       "price": 2330000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1097,7 +1006,6 @@
     "19243440": {
       "price": 2395000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1109,7 +1017,6 @@
     "19243444": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1121,7 +1028,6 @@
     "19247409": {
       "price": 2050000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1133,7 +1039,6 @@
     "19248563": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1145,7 +1050,6 @@
     "19248971": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1157,7 +1061,6 @@
     "19251742": {
       "price": 1890000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1169,7 +1072,6 @@
     "19251743": {
       "price": 2095000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1181,7 +1083,6 @@
     "19251765": {
       "price": 2120000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1193,7 +1094,6 @@
     "19253368": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1205,7 +1105,6 @@
     "19264782": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1217,7 +1116,6 @@
     "19269174": {
       "price": 1990000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1229,7 +1127,6 @@
     "19269175": {
       "price": 1940000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1241,7 +1138,6 @@
     "19273954": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1253,7 +1149,6 @@
     "19278087": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1265,7 +1160,6 @@
     "19282159": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1277,7 +1171,6 @@
     "19283349": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1289,7 +1182,6 @@
     "19283442": {
       "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1301,7 +1193,6 @@
     "19286722": {
       "price": 2100000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1313,7 +1204,6 @@
     "19288518": {
       "price": 2050000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1325,7 +1215,6 @@
     "19294768": {
       "price": 2254000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1337,7 +1226,6 @@
     "19294778": {
       "price": 2310000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1349,7 +1237,6 @@
     "19294782": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1361,7 +1248,6 @@
     "19297766": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1373,7 +1259,6 @@
     "19301555": {
       "price": 1950000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1385,7 +1270,6 @@
     "19301570": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1397,7 +1281,6 @@
     "19301757": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1409,7 +1292,6 @@
     "19302889": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1421,7 +1303,6 @@
     "19307378": {
       "price": 2080000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1433,7 +1314,6 @@
     "19307387": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1445,7 +1325,6 @@
     "19308093": {
       "price": 2149999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1457,7 +1336,6 @@
     "19310985": {
       "price": 16250,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1469,7 +1347,6 @@
     "19314378": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1481,7 +1358,6 @@
     "19314388": {
       "price": 2280000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1493,7 +1369,6 @@
     "19314395": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1505,7 +1380,6 @@
     "19314410": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1517,7 +1391,6 @@
     "19314416": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1529,7 +1402,6 @@
     "19314422": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1541,7 +1413,6 @@
     "19314425": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1553,7 +1424,6 @@
     "19314624": {
       "price": 12500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1565,7 +1435,6 @@
     "19315221": {
       "price": 18250,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1577,7 +1446,6 @@
     "19316790": {
       "price": 12999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1589,7 +1457,6 @@
     "19320031": {
       "price": 23400,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1601,7 +1468,6 @@
     "19320859": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1613,7 +1479,6 @@
     "19323347": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1625,7 +1490,6 @@
     "19325326": {
       "price": 1955000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1637,7 +1501,6 @@
     "19327482": {
       "price": 2230000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1649,7 +1512,6 @@
     "19332185": {
       "price": 1870000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1661,7 +1523,6 @@
     "19333246": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1673,7 +1534,6 @@
     "19336214": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1685,7 +1545,6 @@
     "19339682": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1697,7 +1556,6 @@
     "19341282": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1709,7 +1567,6 @@
     "19341306": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1721,7 +1578,6 @@
     "19341385": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1733,7 +1589,6 @@
     "19343749": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1745,7 +1600,6 @@
     "19344572": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1757,7 +1611,6 @@
     "19344793": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1769,7 +1622,6 @@
     "19347672": {
       "price": 2325000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1781,7 +1633,6 @@
     "19351548": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1793,7 +1644,6 @@
     "19356979": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1805,7 +1655,6 @@
     "19360608": {
       "price": 2200000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1817,7 +1666,6 @@
     "19361257": {
       "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1829,7 +1677,6 @@
     "19362204": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1841,7 +1688,6 @@
     "19362813": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1853,7 +1699,6 @@
     "19364020": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1865,7 +1710,6 @@
     "19365850": {
       "price": 17250,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1877,7 +1721,6 @@
     "19366694": {
       "price": 13900,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1889,7 +1732,6 @@
     "19366704": {
       "price": 15950,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1901,7 +1743,6 @@
     "19370471": {
       "price": 14200,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1913,7 +1754,6 @@
     "19370612": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1925,7 +1765,6 @@
     "19372721": {
       "price": 2325000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1937,7 +1776,6 @@
     "19372851": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1949,7 +1787,6 @@
     "19372984": {
       "price": 18750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1961,7 +1798,6 @@
     "19374289": {
       "price": 1850000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1973,7 +1809,6 @@
     "19377063": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1985,7 +1820,6 @@
     "19377991": {
       "price": 2225000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -1997,7 +1831,6 @@
     "19378731": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2009,7 +1842,6 @@
     "19385479": {
       "price": 2395000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2021,7 +1853,6 @@
     "19386260": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2033,7 +1864,6 @@
     "19388149": {
       "price": 14750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2045,7 +1875,6 @@
     "19392053": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2057,7 +1886,6 @@
     "19394820": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2069,7 +1897,6 @@
     "19394821": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2081,7 +1908,6 @@
     "19395768": {
       "price": 2395000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2093,7 +1919,6 @@
     "19395769": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2105,7 +1930,6 @@
     "19396292": {
       "price": 2210000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2117,7 +1941,6 @@
     "19396982": {
       "price": 12500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2129,7 +1952,6 @@
     "19401237": {
       "price": 22000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2141,7 +1963,6 @@
     "19403327": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2153,7 +1974,6 @@
     "19405851": {
       "price": 2210000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2165,7 +1985,6 @@
     "19408496": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2177,7 +1996,6 @@
     "19408645": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2189,7 +2007,6 @@
     "19408682": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2201,7 +2018,6 @@
     "19409668": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2213,7 +2029,6 @@
     "19411418": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2225,7 +2040,6 @@
     "19412015": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2237,7 +2051,6 @@
     "19412140": {
       "price": 1950000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2249,7 +2062,6 @@
     "19412700": {
       "price": 21000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2261,7 +2073,6 @@
     "19412777": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2273,7 +2084,6 @@
     "19412877": {
       "price": 20400,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2285,7 +2095,6 @@
     "19414479": {
       "price": 23000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2297,7 +2106,6 @@
     "19414932": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2309,7 +2117,6 @@
     "19418111": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2321,7 +2128,6 @@
     "19420032": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2333,7 +2139,6 @@
     "19421080": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2345,7 +2150,6 @@
     "19424864": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2357,7 +2161,6 @@
     "19426254": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2369,7 +2172,6 @@
     "19427425": {
       "price": 14750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2381,7 +2183,6 @@
     "19427835": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2393,7 +2194,6 @@
     "19428415": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2405,7 +2205,6 @@
     "19430539": {
       "price": 20400,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2417,7 +2216,6 @@
     "19430687": {
       "price": 19750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2429,7 +2227,6 @@
     "19435471": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2441,7 +2238,6 @@
     "19437066": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2453,7 +2249,6 @@
     "19437771": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2465,7 +2260,6 @@
     "19438452": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2477,7 +2271,6 @@
     "19438597": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2489,7 +2282,6 @@
     "19438641": {
       "price": 2380000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2501,7 +2293,6 @@
     "19439486": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2513,7 +2304,6 @@
     "19440260": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2525,7 +2315,6 @@
     "19441711": {
       "price": 2200000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2537,7 +2326,6 @@
     "19441712": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2549,7 +2337,6 @@
     "19446500": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2561,7 +2348,6 @@
     "19448812": {
       "price": 13500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2573,7 +2359,6 @@
     "19449169": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2585,7 +2370,6 @@
     "19449207": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2597,7 +2381,6 @@
     "19451317": {
       "price": 13500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2609,7 +2392,6 @@
     "19452079": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2621,7 +2403,6 @@
     "19452762": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2633,7 +2414,6 @@
     "19452916": {
       "price": 26000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2645,7 +2425,6 @@
     "19454063": {
       "price": 27500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2657,7 +2436,6 @@
     "19457442": {
       "price": 22000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2669,7 +2447,6 @@
     "19458631": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2681,7 +2458,6 @@
     "19458690": {
       "price": 2000000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2693,7 +2469,6 @@
     "19459593": {
       "price": 1840000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2705,7 +2480,6 @@
     "19460118": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2717,7 +2491,6 @@
     "19460817": {
       "price": 1950000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2729,7 +2502,6 @@
     "19461592": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2741,7 +2513,6 @@
     "19462034": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2753,7 +2524,6 @@
     "19462035": {
       "price": 1725000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2765,7 +2535,6 @@
     "19462384": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2777,7 +2546,6 @@
     "19462642": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2789,7 +2557,6 @@
     "19464701": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2801,7 +2568,6 @@
     "19469209": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2813,7 +2579,6 @@
     "19469211": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2825,7 +2590,6 @@
     "19472118": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2837,7 +2601,6 @@
     "19474364": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2849,7 +2612,6 @@
     "19474830": {
       "price": 2400000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2861,7 +2623,6 @@
     "19475209": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2873,7 +2634,6 @@
     "19478500": {
       "price": 1950000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2885,7 +2645,6 @@
     "19478515": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2897,7 +2656,6 @@
     "19479624": {
       "price": 22000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2909,7 +2667,6 @@
     "19479862": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2921,7 +2678,6 @@
     "19479872": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2933,7 +2689,6 @@
     "19482365": {
       "price": 21000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2945,7 +2700,6 @@
     "19483377": {
       "price": 27000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2957,7 +2711,6 @@
     "19485527": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2969,7 +2722,6 @@
     "19489495": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2981,7 +2733,6 @@
     "19489752": {
       "price": 2410000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -2993,7 +2744,6 @@
     "19490152": {
       "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3005,7 +2755,6 @@
     "19490364": {
       "price": 14250,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3017,7 +2766,6 @@
     "19492956": {
       "price": 25500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3029,7 +2777,6 @@
     "19492958": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3041,7 +2788,6 @@
     "19493423": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3053,7 +2799,6 @@
     "19494610": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3065,7 +2810,6 @@
     "19502065": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3077,7 +2821,6 @@
     "19503080": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3089,7 +2832,6 @@
     "19507087": {
       "price": 14998,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3101,7 +2843,6 @@
     "19507629": {
       "price": 25500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3113,7 +2854,6 @@
     "19510119": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3125,7 +2865,6 @@
     "19510744": {
       "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3137,7 +2876,6 @@
     "19511630": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3149,7 +2887,6 @@
     "19511938": {
       "price": 1950000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3161,7 +2898,6 @@
     "19513000": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3173,7 +2909,6 @@
     "19514457": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3185,7 +2920,6 @@
     "19517179": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3197,7 +2931,6 @@
     "19517214": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3209,7 +2942,6 @@
     "19519980": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3221,7 +2953,6 @@
     "19521071": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3233,7 +2964,6 @@
     "19523241": {
       "price": 20200,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3245,7 +2975,6 @@
     "19525243": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3257,7 +2986,6 @@
     "19525323": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3269,7 +2997,6 @@
     "19526224": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3281,7 +3008,6 @@
     "19528115": {
       "price": 25750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3293,7 +3019,6 @@
     "19529179": {
       "price": 26000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3305,7 +3030,6 @@
     "19529208": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3317,7 +3041,6 @@
     "19530358": {
       "price": 12999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3329,7 +3052,6 @@
     "19534520": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3341,7 +3063,6 @@
     "19535127": {
       "price": 22500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3353,7 +3074,6 @@
     "19535256": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3365,7 +3085,6 @@
     "19538542": {
       "price": 22500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3377,7 +3096,6 @@
     "19538788": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3389,7 +3107,6 @@
     "19539920": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3401,7 +3118,6 @@
     "19539926": {
       "price": 26000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3413,7 +3129,6 @@
     "19539928": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3425,7 +3140,6 @@
     "19540304": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3437,7 +3151,6 @@
     "19541646": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3449,7 +3162,6 @@
     "19541736": {
       "price": 17400,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3461,7 +3173,6 @@
     "19542896": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3473,7 +3184,6 @@
     "19542988": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3485,7 +3195,6 @@
     "19543758": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3497,7 +3206,6 @@
     "19543773": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3509,7 +3217,6 @@
     "19545065": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3521,7 +3228,6 @@
     "19545070": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3533,7 +3239,6 @@
     "19546669": {
       "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3545,7 +3250,6 @@
     "19547474": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3557,7 +3261,6 @@
     "19549185": {
       "price": 22500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3569,7 +3272,6 @@
     "19549460": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3581,7 +3283,6 @@
     "19549720": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3593,7 +3294,6 @@
     "19550219": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3605,7 +3305,6 @@
     "19551759": {
       "price": 23000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3617,7 +3316,6 @@
     "19551786": {
       "price": 13500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3629,7 +3327,6 @@
     "19553151": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3641,7 +3338,6 @@
     "19554385": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3653,7 +3349,6 @@
     "19555059": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3665,7 +3360,6 @@
     "19555065": {
       "price": 1875000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3677,7 +3371,6 @@
     "19555348": {
       "price": 23000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3689,7 +3382,6 @@
     "19555350": {
       "price": 21000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3701,7 +3393,6 @@
     "19555915": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3713,7 +3404,6 @@
     "19555924": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3725,7 +3415,6 @@
     "19556718": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3737,7 +3426,6 @@
     "19559350": {
       "price": 13500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3749,7 +3437,6 @@
     "19559732": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3761,7 +3448,6 @@
     "19559845": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3773,7 +3459,6 @@
     "19559849": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3785,7 +3470,6 @@
     "19559869": {
       "price": 2225000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3797,7 +3481,6 @@
     "19559879": {
       "price": 2199999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3809,7 +3492,6 @@
     "19559884": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3821,7 +3503,6 @@
     "19559892": {
       "price": 2050000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3833,7 +3514,6 @@
     "19559911": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3845,7 +3525,6 @@
     "19559931": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3857,7 +3536,6 @@
     "19559956": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3869,7 +3547,6 @@
     "19559958": {
       "price": 2290000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3881,7 +3558,6 @@
     "19559969": {
       "price": 13900,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3893,7 +3569,6 @@
     "19559988": {
       "price": 2244000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3905,7 +3580,6 @@
     "19560003": {
       "price": 13900,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3917,7 +3591,6 @@
     "19560004": {
       "price": 2245000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3929,7 +3602,6 @@
     "19560062": {
       "price": 2200000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3941,7 +3613,6 @@
     "19560077": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3953,7 +3624,6 @@
     "19560107": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3965,7 +3635,6 @@
     "19560780": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3977,7 +3646,6 @@
     "19560910": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -3989,7 +3657,6 @@
     "19562322": {
       "price": 1990000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4001,7 +3668,6 @@
     "19562511": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4013,7 +3679,6 @@
     "19562545": {
       "price": 9500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4025,7 +3690,6 @@
     "19562613": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4037,7 +3701,6 @@
     "19563693": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4049,7 +3712,6 @@
     "19563725": {
       "price": 14750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4061,7 +3723,6 @@
     "19566032": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4073,7 +3734,6 @@
     "19566330": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4085,7 +3745,6 @@
     "19569021": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4097,7 +3756,6 @@
     "19570735": {
       "price": 17999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4109,7 +3767,6 @@
     "19570900": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4121,7 +3778,6 @@
     "19572803": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4133,7 +3789,6 @@
     "19573363": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4145,7 +3800,6 @@
     "19574118": {
       "price": 2190000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4157,7 +3811,6 @@
     "19575166": {
       "price": 12999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4169,7 +3822,6 @@
     "19575298": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4181,7 +3833,6 @@
     "19575300": {
       "price": 21500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4193,7 +3844,6 @@
     "19575517": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4205,7 +3855,6 @@
     "19575635": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4217,7 +3866,6 @@
     "19575706": {
       "price": 2195000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4229,7 +3877,6 @@
     "19575769": {
       "price": 10900,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4241,7 +3888,6 @@
     "19576881": {
       "price": 1730000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4253,7 +3899,6 @@
     "19577050": {
       "price": 22000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4265,7 +3910,6 @@
     "19577065": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4277,7 +3921,6 @@
     "19577394": {
       "price": 1800000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4289,7 +3932,6 @@
     "19578096": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4301,7 +3943,6 @@
     "19581188": {
       "price": 16850,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4313,7 +3954,6 @@
     "19582633": {
       "price": 2375000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4325,7 +3965,6 @@
     "19585061": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4337,7 +3976,6 @@
     "19585561": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4349,7 +3987,6 @@
     "19586288": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4361,7 +3998,6 @@
     "19586524": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4373,7 +4009,6 @@
     "19586700": {
       "price": 12500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4385,7 +4020,6 @@
     "19587098": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4397,7 +4031,6 @@
     "19587175": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4409,7 +4042,6 @@
     "19587200": {
       "price": 2390000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4421,7 +4053,6 @@
     "19587324": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4433,7 +4064,6 @@
     "19587630": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4445,7 +4075,6 @@
     "19588814": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4457,7 +4086,6 @@
     "19588819": {
       "price": 16750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4469,7 +4097,6 @@
     "19589309": {
       "price": 14900,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4481,7 +4108,6 @@
     "19591959": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4493,7 +4119,6 @@
     "19592722": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4505,7 +4130,6 @@
     "19593586": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4517,7 +4141,6 @@
     "19595428": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4529,7 +4152,6 @@
     "19595816": {
       "price": 2150000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4541,7 +4163,6 @@
     "19596140": {
       "price": 12999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4553,7 +4174,6 @@
     "19596143": {
       "price": 15750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4565,55 +4185,154 @@
     "19596993": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35564402747081,
+          "lng": 36.226430266096415
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "13 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "250 TL",
+          "Depozito": "13000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "58 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "2"
+        },
         "transport": []
       }
     },
     "19597024": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.355221864877045,
+          "lng": 36.223568182369185
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "13 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "250 TL",
+          "Depozito": "12000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "2"
+        },
         "transport": []
       }
     },
     "19597559": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36041404824614,
+          "lng": 36.23104773706594
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "17 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "3"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş"
+        ]
       }
     },
     "19598371": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.359169395915,
+          "lng": 36.21946067366628
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "300 TL",
+          "Depozito": "19000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "50 m²",
+          "Net": "47 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Dolmuş"
+        ]
       }
     },
     "19598536": {
       "price": 26000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4625,7 +4344,6 @@
     "19602953": {
       "price": 2315000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4637,139 +4355,431 @@
     "19603562": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36079914613819,
+          "lng": 36.22602844097063
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "22 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "19500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19605596": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36873948452949,
+          "lng": 36.2279419750791
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "25 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık & Kapalı Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "250 TL",
+          "Depozito": "15000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Anayol",
+          "Hastaneye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19606563": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
-        "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "coordinates": {
+          "lat": 41.35941571548176,
+          "lng": 36.22558677082702
+        },
+        "coordinatesExact": true,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "15 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Yapı Tipi": "Betonarme",
+          "Aidat": "650 TL",
+          "Depozito": "17500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Balkon Sayısı": "1",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Otobüs",
+          "Tramvay",
+          "Dolmuş"
+        ]
       }
     },
     "19606872": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.368337550986126,
+          "lng": 36.22351293962677
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "15 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "45 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19606873": {
       "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36090396616713,
+          "lng": 36.23083907856308
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "15 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Anayol",
+          "Denize Sıfır",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19607293": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36816666655121,
+          "lng": 36.22362808207796
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "15 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "540 TL",
+          "Depozito": "14000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "65 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19607717": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36492103792155,
+          "lng": 36.225574855351944
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "42 m²",
+          "Net": "35 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
         "transport": []
       }
     },
     "19607850": {
       "price": 2100000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35743542422578,
+          "lng": 36.22287669811125
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "15 Temmuz 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Var",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "3",
+          "Brüt": "45 m²",
+          "Net": "38 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
         "transport": []
       }
     },
     "19608279": {
       "price": 24500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35877588714531,
+          "lng": 36.231289562180514
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "17 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "2+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "7",
+          "Brüt": "90 m²",
+          "Net": "80 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "E-5",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19609657": {
       "price": 2190000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35366329262986,
+          "lng": 36.227730662639274
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "16 Temmuz 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Var",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "50 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
         "transport": []
       }
     },
     "19612132": {
       "price": 19500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.360799146138,
+          "lng": 36.226028440971
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "16 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Anayol"
+        ]
       }
     },
     "19612133": {
       "price": 2325000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4781,67 +4791,204 @@
     "19615340": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.3449457220247,
+          "lng": 36.24808050075692
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "80 m²",
+          "Net": "70 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş"
+        ]
       }
     },
     "19615358": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.37012905433684,
+          "lng": 36.22505937650322
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "68 m²",
+          "Net": "60 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19616764": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
-        "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "coordinates": {
+          "lat": 41.36761216259285,
+          "lng": 36.225052418342386
+        },
+        "coordinatesExact": true,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "17 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Okula Yakın",
+          "Denize Yakın",
+          "Otobüs",
+          "Tramvay"
+        ]
       }
     },
     "19617319": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.365138572329116,
+          "lng": 36.22746928562972
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "17 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "1 TL",
+          "Depozito": "20000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "3"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
       }
     },
     "19617956": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36278576586914,
+          "lng": 36.22613938935547
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Evet",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Metro",
+          "Tramvay",
+          "Metrobüs",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19618157": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4853,79 +5000,251 @@
     "19618543": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.355901309608,
+          "lng": 36.226353758126
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "59 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "1"
+        },
+        "transport": [
+          "Anayol"
+        ]
       }
     },
     "19620492": {
       "price": 2200000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35363302690112,
+          "lng": 36.22786312980811
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Temmuz 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19621036": {
       "price": 2190000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35366329263,
+          "lng": 36.227730662639
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Var",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "50 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
         "transport": []
       }
     },
     "19621458": {
       "price": 13750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36144793621382,
+          "lng": 36.21799784919912
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Kiracı Oturuyor",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "550 TL",
+          "Depozito": "13500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19622273": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36273464886254,
+          "lng": 36.22085099095553
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "19 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Doğalgaz Sobalı",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "15000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "51 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay"
+        ]
       }
     },
     "19624163": {
       "price": 24500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36192239493916,
+          "lng": 36.23016994446516
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "26 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "700 TL",
+          "Depozito": "25000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19625656": {
       "price": 2350000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -4937,175 +5256,550 @@
     "19627062": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
-        "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "coordinates": {
+          "lat": 41.367582396026,
+          "lng": 36.223206688078
+        },
+        "coordinatesExact": true,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "28 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Kiracı Oturuyor",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "52 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Anayol"
+        ]
       }
     },
     "19627088": {
       "price": 10000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35359638398624,
+          "lng": 36.227912982380495
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "27 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
       }
     },
     "19627559": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.363884918422805,
+          "lng": 36.22200932353735
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "20 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "15000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "45 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "3"
+        },
+        "transport": [
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19627610": {
       "price": 1665000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35747224990702,
+          "lng": 36.22267060281028
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "20 Temmuz 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat İrtifakı",
+          "Aidat": "0 TL",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "50 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "0 (Yapım Aşamasında)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19627656": {
       "price": 2060000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36438404253392,
+          "lng": 36.21332641203624
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "27 Temmuz 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "400 TL",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "3",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19627708": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36071727201204,
+          "lng": 36.220499239861965
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "20 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "500 TL",
+          "Depozito": "15000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "2"
+        },
         "transport": []
       }
     },
     "19628156": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.364277777023545,
+          "lng": 36.22600674682905
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "28 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "2",
+          "Tapu Durumu": "Yabancıdan",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
         "transport": []
       }
     },
     "19628346": {
       "price": 19750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36429206102838,
+          "lng": 36.223742701113224
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "21 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "19750 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "2+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "6.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "85 m²",
+          "Net": "75 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Okula Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     },
     "19628991": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36856585001242,
+          "lng": 36.22334922467871
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "21 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş"
+        ]
       }
     },
     "19631919": {
       "price": 15100,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.36119842012255,
+          "lng": 36.22143485240304
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "27 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "400 TL",
+          "Depozito": "15000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "65 m²",
+          "Net": "60 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Havaalanı",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş"
+        ]
       }
     },
     "19632861": {
       "price": 10000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35399731587837,
+          "lng": 36.22691549665588
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "10000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay"
+        ]
       }
     },
     "19632868": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.363581698696194,
+          "lng": 36.22551966458559
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "24 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "60 m²",
+          "Net": "54 m²",
+          "Bina Yaşı": "3"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay"
+        ]
       }
     },
     "19632869": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35869813624681,
+          "lng": 36.229895933868065
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "18000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "45 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay"
+        ]
       }
     },
     "19632871": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35705747710881,
+          "lng": 36.22660495340824
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Temmuz 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "58 m²",
+          "Net": "55 m²",
+          "Bina Yaşı": "1"
+        },
         "transport": []
       }
     },
     "19632881": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -5117,7 +5811,6 @@
     "19632915": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.3607866573302,
@@ -5154,7 +5847,6 @@
     "19634751": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.361922394939,
@@ -5191,7 +5883,6 @@
     "19635857": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.361450731679,
@@ -5227,7 +5918,6 @@
     "19635859": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -5239,7 +5929,6 @@
     "19636306": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36069380138733,
@@ -5273,7 +5962,6 @@
     "19636611": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.356263205020724,
@@ -5317,7 +6005,6 @@
     "19637047": {
       "price": 2149999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.358870916988,
@@ -5355,7 +6042,6 @@
     "19637052": {
       "price": 1880000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.367561743544,
@@ -5391,7 +6077,6 @@
     "19637053": {
       "price": 10500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.357174040833,
@@ -5425,7 +6110,6 @@
     "19638056": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36772887771571,
@@ -5464,7 +6148,6 @@
     "19639099": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.366786481498124,
@@ -5498,7 +6181,6 @@
     "19640645": {
       "price": 13000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.358082355801294,
@@ -5533,7 +6215,6 @@
     "19640651": {
       "price": 11500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.360623911171274,
@@ -5574,7 +6255,6 @@
     "19641539": {
       "price": 14000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.3639472704874,
@@ -5617,7 +6297,6 @@
     "19641880": {
       "price": 16000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35706474867014,
@@ -5656,7 +6335,6 @@
     "19643973": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.357824265431425,
@@ -5703,7 +6381,6 @@
     "19644560": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35530672884287,
@@ -5744,7 +6421,6 @@
     "19645539": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.3671868207,
@@ -5780,7 +6456,6 @@
     "19645542": {
       "price": 2275000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -5792,7 +6467,6 @@
     "19645546": {
       "price": 2245000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -5804,7 +6478,6 @@
     "19645660": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36039760036596,
@@ -5841,7 +6514,6 @@
     "19646771": {
       "price": 18000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.363106106403514,
@@ -5877,7 +6549,6 @@
     "19647003": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35616237381513,
@@ -5914,7 +6585,6 @@
     "19649913": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36275406521376,
@@ -5953,7 +6623,6 @@
     "19651291": {
       "price": 2300000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -5965,7 +6634,6 @@
     "19653429": {
       "price": 22500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36302618417921,
@@ -6007,7 +6675,6 @@
     "19653991": {
       "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35699644678768,
@@ -6047,7 +6714,6 @@
     "19654016": {
       "price": 16500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35538980861892,
@@ -6081,7 +6747,6 @@
     "19654018": {
       "price": 20000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35760352788331,
@@ -6115,7 +6780,6 @@
     "19654033": {
       "price": 10000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.360998360311555,
@@ -6149,7 +6813,6 @@
     "19654036": {
       "price": 13500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35537737108507,
@@ -6183,7 +6846,6 @@
     "19654041": {
       "price": 21500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.358020229143854,
@@ -6217,7 +6879,6 @@
     "19654090": {
       "price": 17000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35862055382137,
@@ -6252,7 +6913,6 @@
     "19654719": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -6264,7 +6924,6 @@
     "19654789": {
       "price": 15000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36439240173157,
@@ -6308,7 +6967,6 @@
     "19654971": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.338425958356446,
@@ -6346,7 +7004,6 @@
     "19655011": {
       "price": 18500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.3384664358475,
@@ -6384,7 +7041,6 @@
     "19655145": {
       "price": 10250,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35436152119751,
@@ -6420,7 +7076,6 @@
     "19655903": {
       "price": 2190000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.364471993979535,
@@ -6459,7 +7114,6 @@
     "19656573": {
       "price": 2250000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": null,
         "coordinatesExact": false,
@@ -6471,7 +7125,6 @@
     "19656847": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36494303096479,
@@ -6516,7 +7169,6 @@
     "19656849": {
       "price": 2180000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.364946805413936,
@@ -6563,7 +7215,6 @@
     "19656946": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.371013320328885,
@@ -6609,7 +7260,6 @@
     "19656959": {
       "price": 25000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.35911149722201,
@@ -6656,7 +7306,6 @@
     "19657031": {
       "price": 12000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.3558854838807,
@@ -6693,7 +7342,6 @@
     "19657037": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
-      "lastSeenAt": "2026-07-28T17:24:33.723Z",
       "detail": {
         "coordinates": {
           "lat": 41.36250242631264,
