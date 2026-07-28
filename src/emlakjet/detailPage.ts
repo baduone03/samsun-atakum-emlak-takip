@@ -21,6 +21,17 @@ export const EMPTY_DETAIL: ListingDetail = {
   transport: [],
 };
 
+/**
+ * Detay gercekten alinmis mi.
+ *
+ * Detay butcesi dolduğunda veya istek basarisiz oldugunda EMPTY_DETAIL yaziliyor.
+ * Bunu "onbellekte var" saymak, o ilanin detayinin bir daha hic cekilmemesine
+ * yol acar - bu yuzden dolu olup olmadigi acikca sorulur.
+ */
+export function hasDetail(detail: ListingDetail): boolean {
+  return detail.coordinates !== null || Object.keys(detail.specs).length > 0;
+}
+
 const FLIGHT_CHUNK = /self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)/g;
 
 /** `location` nesnesi: koordinatlarin hemen ardindan adres geliyor. */

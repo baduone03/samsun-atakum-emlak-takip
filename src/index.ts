@@ -5,7 +5,7 @@
  *   node src/index.ts --dry-run  tarar ve konsola basar, mesaj gondermez
  */
 import { MAX_DETAIL_FETCHES_PER_RUN, MAX_MESSAGES_PER_RUN } from "./config.ts";
-import { EMPTY_DETAIL } from "./emlakjet/detailPage.ts";
+import { EMPTY_DETAIL, hasDetail } from "./emlakjet/detailPage.ts";
 import { evaluate, type FilterResult } from "./filter.ts";
 import { buildMessage, buildOverflowSummary } from "./format.ts";
 import { describeLocation } from "./geo.ts";
@@ -68,12 +68,13 @@ async function buildScoredListings(listings: Listing[], state: State): Promise<S
   let detailFetches = 0;
 
   for (const { listing, match, result } of candidates) {
-    // Detay sayfasi maliyetli: daha once gorulenler onbellekten okunur, geri
-    // kalanlarda kosu basina istek sayisi sinirlanir.
+    // Detay sayfasi maliyetli: gercekten alinmis detay onbellekten okunur,
+    // geri kalanlarda kosu basina istek sayisi sinirlanir. Butce dolduğunda
+    // eksik kalanlar sonraki kosularda tamamlanir.
     const cached = state.listings[listing.id]?.detail;
     let detail = cached ?? EMPTY_DETAIL;
 
-    if (!cached && detailFetches < MAX_DETAIL_FETCHES_PER_RUN) {
+    if (!(cached && hasDetail(cached)) && detailFetches < MAX_DETAIL_FETCHES_PER_RUN) {
       detail = await fetchDetail(listing);
       detailFetches++;
     }

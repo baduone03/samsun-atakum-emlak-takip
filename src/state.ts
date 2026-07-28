@@ -67,12 +67,11 @@ export function diffAgainstState(scored: ScoredListing[], state: State): Notific
  *
  * Sadece kriterlere uyan ilanlar icin kayit tutulur; elenen ilanlar zaten her
  * kosuda ucuz filtreden geciyor, onlari saklamak dosyayi sisirir.
+ *
+ * Hicbir sey degismediyse mevcut durum oldugu gibi dondurulur - boylece dosya
+ * bayt bayt ayni kalir ve GitHub Actions bos commit atmaz.
  */
-export function updateState(
-  state: State,
-  scored: ScoredListing[],
-  now = new Date(),
-): State {
+export function updateState(state: State, scored: ScoredListing[], now = new Date()): State {
   const timestamp = now.toISOString();
   const listings: Record<string, StateEntry> = { ...state.listings };
 
@@ -81,10 +80,11 @@ export function updateState(
     listings[item.listing.id] = {
       price: item.listing.price,
       firstSeenAt: previous?.firstSeenAt ?? timestamp,
-      lastSeenAt: timestamp,
       detail: item.detail,
     };
   }
+
+  if (JSON.stringify(listings) === JSON.stringify(state.listings)) return state;
 
   return { version: STATE_VERSION, updatedAt: timestamp, listings };
 }

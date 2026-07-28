@@ -78,7 +78,7 @@ test("fiyat dususu bildirilir, artis bildirilmez", () => {
   assert.deepEqual(diffAgainstState([makeScored("1", 24_000)], state), []);
 });
 
-test("firstSeenAt korunur, lastSeenAt guncellenir", () => {
+test("firstSeenAt ilk gorulme aninda sabitlenir", () => {
   const first = new Date("2026-07-01T00:00:00Z");
   const later = new Date("2026-07-28T00:00:00Z");
 
@@ -86,6 +86,31 @@ test("firstSeenAt korunur, lastSeenAt guncellenir", () => {
   const updated = updateState(initial, [makeScored("1", 19_000)], later);
 
   assert.equal(updated.listings["1"]?.firstSeenAt, first.toISOString());
-  assert.equal(updated.listings["1"]?.lastSeenAt, later.toISOString());
   assert.equal(updated.listings["1"]?.price, 19_000);
+});
+
+test("degisiklik yoksa durum aynen dondurulur (bos commit olmasin)", () => {
+  const scored = [makeScored("1", 20_000), makeScored("2", 18_000)];
+  const initial = updateState(emptyState(), scored, new Date("2026-07-01T00:00:00Z"));
+
+  const rerun = updateState(initial, scored, new Date("2026-07-28T00:00:00Z"));
+
+  assert.equal(rerun, initial, "ayni nesne donmeli");
+  assert.equal(
+    JSON.stringify(rerun),
+    JSON.stringify(initial),
+    "dosya bayt bayt ayni kalmali",
+  );
+});
+
+test("gercek degisiklikte durum guncellenir", () => {
+  const initial = updateState(emptyState(), [makeScored("1", 20_000)]);
+
+  const priceChanged = updateState(initial, [makeScored("1", 17_000)]);
+  assert.notEqual(priceChanged, initial);
+  assert.equal(priceChanged.listings["1"]?.price, 17_000);
+
+  const listingAdded = updateState(initial, [makeScored("2", 21_000)]);
+  assert.notEqual(listingAdded, initial);
+  assert.equal(Object.keys(listingAdded.listings).length, 2);
 });

@@ -83,11 +83,15 @@ export type ScoredListing = {
   warnings: string[];
 };
 
-/** state/seen.json icinde ilan basina tutulan kayit. */
+/**
+ * state/seen.json icinde ilan basina tutulan kayit.
+ *
+ * Sadece kararli alanlar tutulur: her kosuda degisen bir zaman damgasi
+ * eklemek, hicbir sey degismese bile saat basi bos commit uretir.
+ */
 export type StateEntry = {
   price: number;
   firstSeenAt: string;
-  lastSeenAt: string;
   /** Detay sayfasi tekrar tekrar cekilmesin diye onbellek. */
   detail: ListingDetail;
 };
