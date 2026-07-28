@@ -73,10 +73,21 @@ gh secret set TELEGRAM_CHAT_ID
 
 ### 3. İlk çalıştırma
 
+Önce Telegram'a mesaj göndermeden dene:
+
+```bash
+gh workflow run scan.yml -f dry_run=true
+gh run watch
+```
+
+Sonra gerçeğini çalıştır (ilk koşu mevcut ilanları gönderir):
+
 ```bash
 gh workflow run scan.yml
 gh run watch
 ```
+
+Bundan sonra saat başı kendiliğinden çalışır.
 
 ### Yerel geliştirme
 
@@ -119,8 +130,10 @@ Fiyat artışları bildirilmez.
   saatlik tarama ~720–900 dk/ay tutar. Kısmak için cron'u `17 6-23 * * *` yapabilirsin.
 - **Durum**: `state/seen.json` her koşuda `github-actions[bot]` tarafından repoya geri commit edilir.
   Aynı ilan için ikinci kez bildirim gitmemesini bu dosya sağlar.
-- **Engellenme**: emlakjet isteği 403 ile reddederse `state` dosyasına dokunulmaz, Telegram'a
-  uyarı mesajı gider ve iş kırmızı biter. Bir sonraki saatlik koşuda tekrar denenir.
+- **Engellenme**: emlakjet, GitHub Actions runner IP'lerini engellemiyor — bulutta çalıştırılan
+  dry-run taraması yereldekiyle birebir aynı sonucu verdi (1117 ilan, 2 dk 30 sn). İleride
+  engellenirse `state` dosyasına dokunulmaz, Telegram'a uyarı mesajı gider ve iş kırmızı biter;
+  bir sonraki saatlik koşuda tekrar denenir.
 - **İstek yükü**: 24 liste URL'i (2 işlem türü × 2 mahalle × 3 oda tipi × sahibinden varyantı)
   + sayfalama ≈ 55 istek, aralarında 1,5 sn. Detay sayfası yalnızca daha önce görülmemiş ilanlar
   için ve koşu başına en fazla 40 tane çekilir; ilk koşudan sonra bu sayı sıfıra yaklaşır.
