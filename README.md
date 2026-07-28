@@ -126,8 +126,18 @@ Fiyat artışları bildirilmez.
 ## İşleyiş notları
 
 - **Cron**: saat başı (`:17` UTC). Değiştirmek için
-  [.github/workflows/scan.yml](.github/workflows/scan.yml). Private repo Actions kotası 2000 dk/ay;
-  saatlik tarama ~720–900 dk/ay tutar. Kısmak için cron'u `17 6-23 * * *` yapabilirsin.
+  [.github/workflows/scan.yml](.github/workflows/scan.yml).
+- **Zamanlama garantili değil**: GitHub `schedule` olayını en iyi çaba ile çalıştırır; yoğunlukta
+  geciktirir veya tamamen atlar. Ölçülen: 16–26 dk gecikme, saatlerin bir kısmı atlanıyor.
+  Gerçekleşen tarama sıklığı pratikte **1–2 saatte bir**. Bu iş için yeterli; garanti isteyen
+  bir kullanım varsa GitHub Actions doğru araç değil.
+- **Actions kotası**: private repo 2000 dk/ay. Koşu başına ~2 dk (dakikaya yukarı yuvarlanarak
+  faturalanır) → saatlik tarama ≈ **1440 dk/ay**. İstekler arası bekleme 1500 ms iken koşu 2 dk
+  45 sn sürüyor ve aylık ~2160 dk ile kotayı **aşıyordu**; 800 ms'ye çekilerek altına indirildi.
+  Daha da kısmak istersen cron'u `17 6-23 * * *` yap (~1080 dk/ay).
+- **60 gün kuralı**: GitHub, 60 gün boyunca hiç aktivite olmayan repolarda zamanlanmış
+  workflow'ları otomatik devre dışı bırakır. Tarama `state/seen.json`'ı değiştikçe commit attığı
+  için normalde tetiklenmez; piyasa tamamen dursa bile repoya elle bir commit atmak yeterli.
 - **Durum**: `state/seen.json` yalnızca gerçekten bir şey değiştiğinde (yeni ilan, fiyat değişimi,
   detay tamamlanması) `github-actions[bot]` tarafından repoya geri commit edilir. Sessiz koşular
   dosyayı bayt bayt aynı bıraktığı için boş commit üretmez. Aynı ilan için ikinci kez bildirim

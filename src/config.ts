@@ -105,8 +105,15 @@ export const LIST_PAGE_SIZE = 30;
  */
 export const MAX_DETAIL_FETCHES_PER_RUN = 40;
 
-/** Emlakjet'e ardisik istekler arasinda beklenecek sure (ms). */
-export const REQUEST_DELAY_MS = 1500;
+/**
+ * Emlakjet'e ardisik istekler arasinda beklenecek sure (ms).
+ *
+ * Kosu suresinin neredeyse tamami bu bekleme: ~95 istek × gecikme. 1500 ms'de
+ * kosu ~2 dk 45 sn suruyordu ve saatlik tarama private repo Actions kotasini
+ * (2000 dk/ay) asiyordu. 800 ms hem kotanin altinda kaliyor hem de saniyede
+ * bir istegin altinda kalarak siteye yuk bindirmiyor.
+ */
+export const REQUEST_DELAY_MS = 800;
 
 export const REQUEST_TIMEOUT_MS = 30_000;
 export const REQUEST_RETRIES = 3;
