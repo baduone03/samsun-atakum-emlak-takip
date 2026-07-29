@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-29T12:20:34.239Z",
+  "updatedAt": "2026-07-29T15:19:15.438Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -2018,10 +2018,38 @@
       "price": 2340000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
-        "coordinates": null,
-        "coordinatesExact": false,
-        "address": null,
-        "specs": {},
+        "coordinates": {
+          "lat": 41.3574321984277,
+          "lng": 36.22542712837458
+        },
+        "coordinatesExact": true,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "17 Haziran 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Yok",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Boş",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)",
+          "En Az Değer": "2.050.000 ₺",
+          "En Fazla Değer": "2.400.000 ₺",
+          "Tahmini Kira": "13.700 ₺ - 14.600 ₺",
+          "Yıllık Getiri": "%7.41",
+          "Geri Dönüş Süresi": "13 yıl"
+        },
         "transport": []
       }
     },
@@ -5357,7 +5385,7 @@
       }
     },
     "19325326": {
-      "price": 1935000,
+      "price": 1955000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -9677,7 +9705,7 @@
       }
     },
     "19489752": {
-      "price": 2390000,
+      "price": 2410000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -14779,7 +14807,7 @@
       }
     },
     "19598536": {
-      "price": 25000,
+      "price": 26000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -16588,7 +16616,7 @@
       }
     },
     "19636611": {
-      "price": 20000,
+      "price": 19750,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
