@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-01T21:09:06.236Z",
+  "updatedAt": "2026-08-02T00:11:36.697Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -19043,6 +19043,40 @@
           "Brüt": "50 m²",
           "Net": "45 m²",
           "Bina Yaşı": "1"
+        },
+        "transport": []
+      }
+    },
+    "19674226": {
+      "price": 25000,
+      "firstSeenAt": "2026-08-02T00:11:36.697Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.337646782087944,
+          "lng": 36.23907756060362
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "01 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "25000 TL",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "3+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "170 m²",
+          "Net": "150 m²",
+          "Bina Yaşı": "11-15"
         },
         "transport": []
       }
