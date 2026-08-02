@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02T11:34:30.935Z",
+  "updatedAt": "2026-08-02T17:14:19.189Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -19143,6 +19143,76 @@
           "Brüt": "65 m²",
           "Net": "55 m²",
           "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Anayol"
+        ]
+      }
+    },
+    "19676644": {
+      "price": 2390000,
+      "firstSeenAt": "2026-08-02T17:14:19.189Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36447199398,
+          "lng": 36.21242097172
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "02 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Yok",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "3",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
+      }
+    },
+    "19676649": {
+      "price": 14500,
+      "firstSeenAt": "2026-08-02T17:14:19.189Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.367681682249,
+          "lng": 36.223752421635
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "02 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
         },
         "transport": [
           "Anayol"
