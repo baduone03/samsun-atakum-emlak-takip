@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T17:20:04.622Z",
+  "updatedAt": "2026-08-03T19:57:00.624Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -8658,6 +8658,43 @@
           "Brüt": "150 m²",
           "Net": "125 m²",
           "Bina Yaşı": "11-15"
+        },
+        "transport": []
+      }
+    },
+    "19454115": {
+      "price": 2175000,
+      "firstSeenAt": "2026-08-03T19:57:00.624Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.363067755380634,
+          "lng": 36.22482806991833
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "1724",
+          "Parsel": "7",
+          "Takas": "Yok",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "6-10"
         },
         "transport": []
       }
@@ -19504,6 +19541,49 @@
           "Okula Yakın",
           "Camiye Yakın",
           "Minibüs"
+        ]
+      }
+    },
+    "19681879": {
+      "price": 17000,
+      "firstSeenAt": "2026-08-03T19:57:00.624Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35735037830001,
+          "lng": 36.22939031592202
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "400 TL",
+          "Depozito": "17000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "50 m²",
+          "Net": "42 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş"
         ]
       }
     }
