@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T11:43:34.497Z",
+  "updatedAt": "2026-08-03T17:20:04.622Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -19346,6 +19346,50 @@
         ]
       }
     },
+    "19679776": {
+      "price": 2350000,
+      "firstSeenAt": "2026-08-03T17:20:04.622Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36580413097081,
+          "lng": 36.22095492173018
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat İrtifakı",
+          "Aidat": "250 TL",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "60 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
     "19679782": {
       "price": 13000,
       "firstSeenAt": "2026-08-03T11:43:34.497Z",
@@ -19384,6 +19428,81 @@
           "Okula Yakın",
           "Camiye Yakın",
           "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
+    "19680418": {
+      "price": 17500,
+      "firstSeenAt": "2026-08-03T17:20:04.622Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.3563140022814,
+          "lng": 36.22764441672959
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "17500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "60 m²",
+          "Net": "55 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
+      }
+    },
+    "19680902": {
+      "price": 12000,
+      "firstSeenAt": "2026-08-03T17:20:04.622Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.3584083020849,
+          "lng": 36.223017898299815
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "108 TL",
+          "Depozito": "12000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "3",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
           "Minibüs"
         ]
       }
