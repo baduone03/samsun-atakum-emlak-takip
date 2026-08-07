@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07T05:04:04.577Z",
+  "updatedAt": "2026-08-07T08:21:10.687Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -20267,6 +20267,97 @@
           "Havaalanı",
           "Tramvay",
           "Dolmuş",
+          "Minibüs"
+        ]
+      }
+    },
+    "19698446": {
+      "price": 22500,
+      "firstSeenAt": "2026-08-07T08:21:10.687Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36027829426497,
+          "lng": 36.230817254164876
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "07 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "E-5",
+          "Dolmuş"
+        ]
+      }
+    },
+    "19698820": {
+      "price": 25000,
+      "firstSeenAt": "2026-08-07T08:21:10.687Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36817073824986,
+          "lng": 36.22739637107281
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "07 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "1682",
+          "Parsel": "2",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Enerji Kimlik Belgesi": "A Sınıfı",
+          "Aidat": "700 TL",
+          "Depozito": "25000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Balkon Sayısı": "1",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "55 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Denize Yakın",
+          "Otobüs",
+          "Tramvay",
           "Minibüs"
         ]
       }
