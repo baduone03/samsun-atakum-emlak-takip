@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06T15:28:36.274Z",
+  "updatedAt": "2026-08-07T00:15:06.110Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -5385,7 +5385,7 @@
       }
     },
     "19325326": {
-      "price": 1899000,
+      "price": 2070000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -13042,7 +13042,7 @@
       }
     },
     "19562545": {
-      "price": 9500,
+      "price": 10500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -18506,7 +18506,7 @@
       }
     },
     "19662264": {
-      "price": 2275000,
+      "price": 2100000,
       "firstSeenAt": "2026-07-29T23:13:29.567Z",
       "detail": {
         "coordinates": {
@@ -18627,7 +18627,7 @@
       }
     },
     "19665382": {
-      "price": 14200,
+      "price": 13500,
       "firstSeenAt": "2026-07-30T16:48:44.196Z",
       "detail": {
         "coordinates": {
@@ -20057,6 +20057,41 @@
           "Brüt": "65 m²",
           "Net": "50 m²",
           "Bina Yaşı": "6-10"
+        },
+        "transport": []
+      }
+    },
+    "19696135": {
+      "price": 15000,
+      "firstSeenAt": "2026-08-07T00:15:06.110Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.334993184356094,
+          "lng": 36.245654337108135
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "06 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "500 TL",
+          "Depozito": "15000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "52 m²",
+          "Net": "47 m²",
+          "Bina Yaşı": "2"
         },
         "transport": []
       }
