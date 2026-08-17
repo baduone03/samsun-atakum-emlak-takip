@@ -14,7 +14,8 @@ type RawListing = {
   "@type"?: string;
   name?: string;
   url?: string;
-  image?: string[];
+  /** Tek gorselde duz string, coklu gorselde dizi gelir. */
+  image?: string | string[];
   datePosted?: string;
   offers?: { price?: number };
   additionalProperty?: PropertyValue[];
@@ -63,6 +64,12 @@ function parseArea(value: string | null): number | null {
   return match?.[1] ? Number(match[1]) : null;
 }
 
+/** `image` string de dizi de olabilir; ikisini de tek bicime indirger. */
+function parseImageUrls(image: RawListing["image"]): string[] {
+  const urls = Array.isArray(image) ? image : [image];
+  return urls.filter((url): url is string => typeof url === "string" && url.trim() !== "");
+}
+
 /** "Atakent Mahallesi, Atakum" -> "Atakent Mahallesi" */
 function parseNeighborhood(value: string | null): string | null {
   return value?.split(",")[0]?.trim() || null;
@@ -91,7 +98,7 @@ function toListing(raw: RawListing, tradeType: TradeType, isOwner: boolean): Lis
     locationText,
     neighborhood: parseNeighborhood(locationText),
     postedAt: raw.datePosted?.trim() || null,
-    imageUrls: raw.image?.filter((image) => typeof image === "string") ?? [],
+    imageUrls: parseImageUrls(raw.image),
     isOwner,
   };
 }
