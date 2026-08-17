@@ -7,7 +7,7 @@
 import { MAX_DETAIL_FETCHES_PER_RUN, MAX_MESSAGES_PER_RUN } from "./config.ts";
 import { EMPTY_DETAIL, hasDetail } from "./emlakjet/detailPage.ts";
 import { evaluate, type FilterResult } from "./filter.ts";
-import { buildMessage, buildOverflowSummary } from "./format.ts";
+import { buildMessage, buildOverflowSummary, escapeHtml } from "./format.ts";
 import { describeLocation } from "./geo.ts";
 import { BlockedError } from "./http.ts";
 import { scoreListing } from "./score.ts";
@@ -125,6 +125,16 @@ async function deliver(
   }
 }
 
+/** Tarama coktugunde Telegram'a gidecek uyari metni. */
+function buildFailureAlert(error: Error): string {
+  const cause =
+    error instanceof BlockedError
+      ? `Emlakjet isteği engelledi (HTTP ${error.status}).\nSunucu IP'si engellenmiş olabilir.`
+      : `<code>${escapeHtml(error.message)}</code>`;
+
+  return `⚠️ <b>Tarama başarısız</b>\n\n${cause}\nBir sonraki saatlik denemede tekrar denenecek.`;
+}
+
 function printDryRun(notifications: Notification[]): void {
   console.log(`\n=== --dry-run: ${notifications.length} bildirim (gonderilmedi) ===\n`);
   for (const notification of notifications) {
@@ -172,14 +182,11 @@ try {
   const message = (error as Error).message;
   console.error(`HATA: ${message}`);
 
-  // Bot korumasina takildiysak sessizce olmek yerine haber ver; state'e dokunma.
-  if (error instanceof BlockedError && !dryRun) {
+  // Sessizce olmek en kotu senaryo: hata Telegram'a dusmezse tarama gunlerce
+  // durdugu halde fark edilmiyor. Sebebi ne olursa olsun haber ver; state'e dokunma.
+  if (!dryRun) {
     try {
-      await sendText(
-        readCredentials(),
-        `⚠️ <b>Tarama başarısız</b>\n\nEmlakjet isteği engelledi (HTTP ${error.status}).\n` +
-          `Sunucu IP'si engellenmiş olabilir. Bir sonraki saatlik denemede tekrar denenecek.`,
-      );
+      await sendText(readCredentials(), buildFailureAlert(error as Error));
     } catch (notifyError) {
       console.error(`Uyari mesaji da gonderilemedi: ${(notifyError as Error).message}`);
     }
