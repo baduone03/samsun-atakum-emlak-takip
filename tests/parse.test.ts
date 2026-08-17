@@ -39,6 +39,39 @@ test("liste sayfasi alanlari dogru ayristirir", () => {
   assert.equal(listing.isOwner, true, "kaynak bayragi ilana gecmeli");
 });
 
+/** Verilen `image` degeriyle tek ilanlik minimal bir ld+json sayfasi uretir. */
+function listPageWithImage(image: unknown): string {
+  const listing = {
+    "@type": "RealEstateListing",
+    name: "Test ilani",
+    url: "https://www.emlakjet.com/ilan/test-ilani-19999001",
+    image,
+    offers: { price: 20_000 },
+    additionalProperty: [{ name: "Oda Sayısı", value: "2+1" }],
+  };
+  return `<script type="application/ld+json">${JSON.stringify(listing)}</script>`;
+}
+
+// Emlakjet 2026-08-07'de `image` alanini diziden duz string'e cevirdi ve
+// tarama her kosuda coktu. Iki bicim de desteklenmeli.
+test("liste sayfasi hem string hem dizi image alanini kabul eder", () => {
+  const url = "https://imaj.emlakjet.com/a.jpg";
+
+  const fromString = parseListPage(listPageWithImage(url), "kiralik", false);
+  assert.deepEqual(fromString[0]?.imageUrls, [url]);
+
+  const fromArray = parseListPage(listPageWithImage([url]), "kiralik", false);
+  assert.deepEqual(fromArray[0]?.imageUrls, [url]);
+});
+
+test("liste sayfasi beklenmedik image bicimlerinde patlamaz", () => {
+  for (const image of [undefined, null, "", 42, {}, [null, 7]]) {
+    const listings = parseListPage(listPageWithImage(image), "kiralik", false);
+    assert.equal(listings.length, 1, `ilan ${JSON.stringify(image)} icin kayboldu`);
+    assert.deepEqual(listings[0]?.imageUrls, []);
+  }
+});
+
 test("liste sayfasi gercek giris kat metinlerini korur", () => {
   const floors = new Set(parseListPage(listHtml, "kiralik", false).map((l) => l.floorText));
   assert.ok(floors.has("Düz Giriş (Zemin)"), "zemin kat vakasi fixture'da olmali");
