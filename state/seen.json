@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T14:52:38.640Z",
+  "updatedAt": "2026-08-19T19:37:46.768Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -21785,7 +21785,7 @@
       }
     },
     "19720388": {
-      "price": 2100000,
+      "price": 2150000,
       "firstSeenAt": "2026-08-17T01:56:02.364Z",
       "detail": {
         "coordinates": {
@@ -23513,6 +23513,41 @@
           "Tramvay",
           "Deniz Otobüsü"
         ]
+      }
+    },
+    "19746288": {
+      "price": 26000,
+      "firstSeenAt": "2026-08-19T19:37:46.768Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36191972183986,
+          "lng": 36.227529542145355
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "19 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "300 TL",
+          "Depozito": "25000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "3+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "160 m²",
+          "Net": "145 m²",
+          "Bina Yaşı": "16-20"
+        },
+        "transport": []
       }
     }
   }
