@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T04:09:46.260Z",
+  "updatedAt": "2026-08-24T05:01:50.833Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -19454,7 +19454,7 @@
       }
     },
     "19674226": {
-      "price": 22000,
+      "price": 21500,
       "firstSeenAt": "2026-08-02T00:11:36.697Z",
       "detail": {
         "coordinates": {
@@ -24713,6 +24713,45 @@
           "Bina Yaşı": "11-15"
         },
         "transport": []
+      }
+    },
+    "19762670": {
+      "price": 1600000,
+      "firstSeenAt": "2026-08-24T05:01:50.833Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35838019094952,
+          "lng": 36.222679540514946
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "24 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat İrtifakı",
+          "Takas": "Var",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "50 m²",
+          "Net": "40 m²",
+          "Bina Yaşı": "0 (Yapım Aşamasında)"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş"
+        ]
       }
     }
   }
