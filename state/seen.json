@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T10:50:06.784Z",
+  "updatedAt": "2026-08-25T11:44:18.446Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -13452,6 +13452,45 @@
         ]
       }
     },
+    "19568678": {
+      "price": 1730000,
+      "firstSeenAt": "2026-08-25T11:44:18.446Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35445418809867,
+          "lng": 36.22459419455334
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "25 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Yabancıdan",
+          "Yapı Durumu": "Sıfır",
+          "Yapı Tipi": "Betonarme",
+          "Kira Getirisi": "11000 TL",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "1"
+        },
+        "transport": []
+      }
+    },
     "19569021": {
       "price": 11000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
@@ -25150,6 +25189,43 @@
           "Tramvay",
           "Dolmuş",
           "Minibüs"
+        ]
+      }
+    },
+    "19768178": {
+      "price": 2380000,
+      "firstSeenAt": "2026-08-25T11:44:18.446Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.362181800821496,
+          "lng": 36.22333465244257
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "25 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "52 m²",
+          "Net": "46 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Tramvay"
         ]
       }
     }
