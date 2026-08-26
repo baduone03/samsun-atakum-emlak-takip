@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26T09:58:05.893Z",
+  "updatedAt": "2026-08-26T23:32:47.942Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -24179,7 +24179,7 @@
       }
     },
     "19750766": {
-      "price": 2375000,
+      "price": 2360000,
       "firstSeenAt": "2026-08-22T10:53:04.160Z",
       "detail": {
         "coordinates": {
@@ -25469,6 +25469,78 @@
           "Brüt": "55 m²",
           "Net": "45 m²",
           "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
+      }
+    },
+    "19773765": {
+      "price": 16500,
+      "firstSeenAt": "2026-08-26T23:32:47.942Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35698930696636,
+          "lng": 36.22618809397946
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "27 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Yabancıdan",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Asansör": "Var",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "6.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "4"
+        },
+        "transport": []
+      }
+    },
+    "19773767": {
+      "price": 16500,
+      "firstSeenAt": "2026-08-26T23:32:47.942Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.357103991814775,
+          "lng": 36.226130856805504
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "26 Ağustos 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Yabancıdan",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "6.Kat",
+          "Kat Sayısı": "6",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "4"
         },
         "transport": []
       }
