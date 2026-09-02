@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T14:30:00.730Z",
+  "updatedAt": "2026-09-02T18:42:56.410Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -7837,6 +7837,49 @@
         },
         "transport": [
           "Anayol"
+        ]
+      }
+    },
+    "19425028": {
+      "price": 17000,
+      "firstSeenAt": "2026-09-02T18:42:56.410Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36435816959484,
+          "lng": 36.22703050852746
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "02 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat İrtifakı",
+          "Aidat": "650 TL",
+          "Depozito": "20000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "4",
+          "Brüt": "47 m²",
+          "Net": "42 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
         ]
       }
     },
@@ -27987,6 +28030,39 @@
           "Camiye Yakın",
           "Dolmuş"
         ]
+      }
+    },
+    "19798392": {
+      "price": 16500,
+      "firstSeenAt": "2026-09-02T18:42:56.410Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.364760063815865,
+          "lng": 36.226801511484396
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "02 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": []
       }
     }
   }
