@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-02T21:49:59.758Z",
+  "updatedAt": "2026-09-03T00:16:09.089Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -11643,6 +11643,47 @@
         ]
       }
     },
+    "19542994": {
+      "price": 2350000,
+      "firstSeenAt": "2026-09-03T00:16:09.089Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36054788359106,
+          "lng": 36.21965022532625
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "16 Ağustos 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık & Kapalı Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "500 TL",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Minibüs"
+        ]
+      }
+    },
     "19543758": {
       "price": 19000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
@@ -16797,7 +16838,7 @@
       }
     },
     "19631919": {
-      "price": 15100,
+      "price": 14500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
