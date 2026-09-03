@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03T14:34:51.356Z",
+  "updatedAt": "2026-09-03T18:39:20.619Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -15354,7 +15354,7 @@
       }
     },
     "19599630": {
-      "price": 13000,
+      "price": 12999,
       "firstSeenAt": "2026-08-01T18:11:04.765Z",
       "detail": {
         "coordinates": {
@@ -24206,7 +24206,7 @@
       }
     },
     "19746288": {
-      "price": 26000,
+      "price": 25000,
       "firstSeenAt": "2026-08-19T19:37:46.768Z",
       "detail": {
         "coordinates": {
@@ -27023,7 +27023,7 @@
       }
     },
     "19784012": {
-      "price": 14750,
+      "price": 14500,
       "firstSeenAt": "2026-08-29T14:29:59.172Z",
       "detail": {
         "coordinates": {
@@ -28217,6 +28217,48 @@
         },
         "transport": [
           "Tramvay"
+        ]
+      }
+    },
+    "19801002": {
+      "price": 18500,
+      "firstSeenAt": "2026-09-03T18:39:20.619Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35921392434907,
+          "lng": 36.23259743628028
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Aidat": "500 TL",
+          "Depozito": "18500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "2+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş"
         ]
       }
     }
