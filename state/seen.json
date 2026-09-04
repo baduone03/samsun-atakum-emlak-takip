@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04T18:24:57.340Z",
+  "updatedAt": "2026-09-04T21:29:16.819Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -6499,7 +6499,7 @@
       }
     },
     "19372851": {
-      "price": 2222000,
+      "price": 2221000,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -27271,7 +27271,7 @@
       }
     },
     "19788688": {
-      "price": 17000,
+      "price": 17500,
       "firstSeenAt": "2026-08-31T13:49:58.011Z",
       "detail": {
         "coordinates": {
@@ -27356,7 +27356,7 @@
       }
     },
     "19789318": {
-      "price": 16750,
+      "price": 16500,
       "firstSeenAt": "2026-08-31T13:49:58.011Z",
       "detail": {
         "coordinates": {
@@ -28655,6 +28655,125 @@
           "Bina Yaşı": "3"
         },
         "transport": []
+      }
+    },
+    "19807919": {
+      "price": 23500,
+      "firstSeenAt": "2026-09-04T21:29:16.819Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.34059794921343,
+          "lng": 36.24877412722903
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "04 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "600 TL",
+          "Depozito": "25000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "6.Kat",
+          "Kat Sayısı": "7",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "E-5",
+          "Dolmuş",
+          "Minibüs"
+        ]
+      }
+    },
+    "19808016": {
+      "price": 19500,
+      "firstSeenAt": "2026-09-04T21:29:16.819Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36113679268095,
+          "lng": 36.229138204952775
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "04 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "58 m²",
+          "Net": "52 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Anayol",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
+      }
+    },
+    "19808112": {
+      "price": 17500,
+      "firstSeenAt": "2026-09-04T21:29:16.819Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.360884613082455,
+          "lng": 36.22342671626839
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "04 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Tramvay",
+          "Minibüs"
+        ]
       }
     }
   }
