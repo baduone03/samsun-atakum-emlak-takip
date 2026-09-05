@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-05T16:04:58.753Z",
+  "updatedAt": "2026-09-05T21:15:01.549Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -28925,6 +28925,50 @@
           "Anayol",
           "Dolmuş",
           "Minibüs"
+        ]
+      }
+    },
+    "19811309": {
+      "price": 26500,
+      "firstSeenAt": "2026-09-05T21:15:01.549Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.356805417382816,
+          "lng": 36.22812983193359
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "05 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Merkezi (Pay Ölçer)",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Evet",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "1250 TL",
+          "Depozito": "26500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "2+1",
+          "Banyo Sayısı": "2",
+          "Bulunduğu Kat": "9.Kat",
+          "Kat Sayısı": "10",
+          "Brüt": "90 m²",
+          "Net": "80 m²",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş"
         ]
       }
     }
