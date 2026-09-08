@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-08T09:41:21.390Z",
+  "updatedAt": "2026-09-08T14:32:43.355Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -4946,11 +4946,43 @@
       "price": 2149999,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
-        "coordinates": null,
+        "coordinates": {
+          "lat": 41.35887091698774,
+          "lng": 36.22445851564407
+        },
         "coordinatesExact": false,
-        "address": null,
-        "specs": {},
-        "transport": []
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "08 Eylül 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat İrtifakı",
+          "Takas": "Var",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "3",
+          "Brüt": "55 m²",
+          "Net": "45 m²",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
       }
     },
     "19310985": {
@@ -25607,7 +25639,7 @@
       }
     },
     "19765755": {
-      "price": 18000,
+      "price": 17000,
       "firstSeenAt": "2026-08-24T19:45:38.487Z",
       "detail": {
         "coordinates": {
@@ -27399,7 +27431,7 @@
       }
     },
     "19788688": {
-      "price": 17500,
+      "price": 15250,
       "firstSeenAt": "2026-08-31T13:49:58.011Z",
       "detail": {
         "coordinates": {
@@ -27484,7 +27516,7 @@
       }
     },
     "19789318": {
-      "price": 16500,
+      "price": 17500,
       "firstSeenAt": "2026-08-31T13:49:58.011Z",
       "detail": {
         "coordinates": {
@@ -28074,7 +28106,7 @@
       }
     },
     "19796422": {
-      "price": 15500,
+      "price": 15000,
       "firstSeenAt": "2026-09-02T09:37:54.916Z",
       "detail": {
         "coordinates": {
