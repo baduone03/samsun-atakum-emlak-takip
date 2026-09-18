@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T15:00:17.428Z",
+  "updatedAt": "2026-09-18T18:29:20.290Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -24186,6 +24186,50 @@
         "transport": []
       }
     },
+    "19740216": {
+      "price": 23000,
+      "firstSeenAt": "2026-09-18T18:29:20.290Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.3431005897562,
+          "lng": 36.24773072150743
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "18 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "25000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
+      }
+    },
     "19740575": {
       "price": 2275000,
       "firstSeenAt": "2026-09-03T14:34:51.356Z",
@@ -28048,7 +28092,7 @@
       }
     },
     "19793383": {
-      "price": 16500,
+      "price": 15000,
       "firstSeenAt": "2026-09-01T14:54:01.105Z",
       "detail": {
         "coordinates": {
@@ -28658,7 +28702,7 @@
       }
     },
     "19804629": {
-      "price": 12250,
+      "price": 12000,
       "firstSeenAt": "2026-09-04T14:22:28.024Z",
       "detail": {
         "coordinates": {
