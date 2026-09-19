@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T10:59:09.244Z",
+  "updatedAt": "2026-09-19T14:26:01.276Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -25028,7 +25028,7 @@
       }
     },
     "19756044": {
-      "price": 10300,
+      "price": 10250,
       "firstSeenAt": "2026-08-22T10:53:04.160Z",
       "detail": {
         "coordinates": {
@@ -28256,7 +28256,7 @@
       }
     },
     "19796422": {
-      "price": 15000,
+      "price": 13500,
       "firstSeenAt": "2026-09-02T09:37:54.916Z",
       "detail": {
         "coordinates": {
@@ -29200,7 +29200,7 @@
       }
     },
     "19810417": {
-      "price": 20000,
+      "price": 18000,
       "firstSeenAt": "2026-09-05T16:04:58.753Z",
       "detail": {
         "coordinates": {
@@ -30388,7 +30388,7 @@
       }
     },
     "19829832": {
-      "price": 15000,
+      "price": 14000,
       "firstSeenAt": "2026-09-10T21:38:17.374Z",
       "detail": {
         "coordinates": {
@@ -33069,7 +33069,7 @@
       }
     },
     "19870075": {
-      "price": 2250000,
+      "price": 2300000,
       "firstSeenAt": "2026-09-19T00:21:23.617Z",
       "detail": {
         "coordinates": {
@@ -33279,6 +33279,41 @@
           "Okula Yakın",
           "Camiye Yakın"
         ]
+      }
+    },
+    "19871079": {
+      "price": 1990000,
+      "firstSeenAt": "2026-09-19T14:26:01.276Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.354993552477254,
+          "lng": 36.22337152407022
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "19 Eylül 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "45 m²",
+          "Net": "40 m²",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "6",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
       }
     }
   }
