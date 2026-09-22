@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T18:55:08.523Z",
+  "updatedAt": "2026-09-22T22:09:26.564Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -25258,7 +25258,7 @@
       }
     },
     "19756044": {
-      "price": 10250,
+      "price": 10200,
       "firstSeenAt": "2026-08-22T10:53:04.160Z",
       "detail": {
         "coordinates": {
@@ -31386,7 +31386,7 @@
       }
     },
     "19842987": {
-      "price": 15500,
+      "price": 15250,
       "firstSeenAt": "2026-09-13T16:16:53.322Z",
       "detail": {
         "coordinates": {
