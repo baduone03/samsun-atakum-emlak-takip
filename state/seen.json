@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T01:30:34.600Z",
+  "updatedAt": "2026-09-25T07:48:41.578Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -29041,7 +29041,7 @@
       }
     },
     "19804629": {
-      "price": 12000,
+      "price": 11500,
       "firstSeenAt": "2026-09-04T14:22:28.024Z",
       "detail": {
         "coordinates": {
@@ -35267,6 +35267,76 @@
           "Bulunduğu Kat": "2.Kat",
           "Kat Sayısı": "6",
           "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
+      }
+    },
+    "19898585": {
+      "price": 16000,
+      "firstSeenAt": "2026-09-25T07:48:41.578Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.363336782820106,
+          "lng": 36.223321328420965
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "25 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık & Kapalı Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "500 TL",
+          "Depozito": "16000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "4",
+          "Bina Yaşı": "4"
+        },
+        "transport": []
+      }
+    },
+    "19898741": {
+      "price": 17000,
+      "firstSeenAt": "2026-09-25T07:48:41.578Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.3404563411627,
+          "lng": 36.24086458235979
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "25 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "300 TL",
+          "Depozito": "17000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "4"
         },
         "transport": []
       }
