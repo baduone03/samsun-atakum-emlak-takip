@@ -16,6 +16,17 @@ export type TelegramCredentials = {
 
 type InlineButton = { text: string; url: string };
 
+/** Telegram API'nin reddettigi istek; HTTP durum kodunu tasir. */
+export class TelegramError extends Error {
+  readonly status: number;
+
+  constructor(method: string, status: number, detail: string) {
+    super(`Telegram ${method} basarisiz: HTTP ${status} ${detail.slice(0, 300)}`);
+    this.name = "TelegramError";
+    this.status = status;
+  }
+}
+
 /** Ortam degiskenlerinden kimlik bilgilerini okur. */
 export function readCredentials(env: NodeJS.ProcessEnv = process.env): TelegramCredentials {
   const botToken = env["TELEGRAM_BOT_TOKEN"]?.trim();
@@ -45,7 +56,7 @@ async function callApi(
   if (!response.ok) {
     // Yanit govdesinde token yok; guvenle loglanabilir.
     const detail = await response.text().catch(() => "");
-    throw new Error(`Telegram ${method} basarisiz: HTTP ${response.status} ${detail.slice(0, 300)}`);
+    throw new TelegramError(method, response.status, detail);
   }
 }
 
@@ -85,13 +96,21 @@ export async function sendListing(
   const reply_markup = { inline_keyboard: buildButtons(notification) };
 
   if (photo) {
-    await callApi(credentials, "sendPhoto", {
-      photo,
-      caption,
-      parse_mode: "HTML",
-      reply_markup,
-    });
-    return;
+    try {
+      await callApi(credentials, "sendPhoto", {
+        photo,
+        caption,
+        parse_mode: "HTML",
+        reply_markup,
+      });
+      return;
+    } catch (error) {
+      // Gorsel kaldirilmis veya Telegram sunucusu indiremiyorsa ("failed to get
+      // HTTP URL content") HTTP 400 doner. Bu yuzden tum tarama cokmesin; ilan
+      // gorselsiz metin olarak gonderilir. Diger hatalar (token, rate limit) yukari.
+      if (!(error instanceof TelegramError && error.status === 400)) throw error;
+      console.warn(`  gorsel gonderilemedi, metne geciliyor: ${error.message}`);
+    }
   }
 
   await callApi(credentials, "sendMessage", {
