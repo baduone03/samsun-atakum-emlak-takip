@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T13:59:15.198Z",
+  "updatedAt": "2026-09-27T18:24:19.029Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -35888,6 +35888,57 @@
           "Bina Yaşı": "2"
         },
         "transport": []
+      }
+    },
+    "19909391": {
+      "price": 22500,
+      "firstSeenAt": "2026-09-27T18:24:19.029Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35939561227392,
+          "lng": 36.22748203575611
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "27 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "2+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "110 m²",
+          "Net": "90 m²",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "5"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Camiye Yakın",
+          "E-5",
+          "Dolmuş",
+          "Minibüs",
+          "Havaalanı",
+          "Marmaray",
+          "Metro",
+          "Avrasya Tüneli",
+          "Okula Yakın",
+          "Tramvay",
+          "Metrobüs",
+          "TEM",
+          "Tren İstasyonu"
+        ]
       }
     }
   }
