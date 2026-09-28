@@ -5,7 +5,7 @@
  * Her ilanin altina "İlana Git" ve "Haritada Gör" butonlari eklenir.
  */
 import { TELEGRAM_DELAY_MS } from "./config.ts";
-import { sleep } from "./http.ts";
+import { BROWSER_USER_AGENT, sleep } from "./http.ts";
 import { mapsUrl } from "./format.ts";
 import type { Notification } from "./types.ts";
 
@@ -33,8 +33,7 @@ export function readCredentials(env: NodeJS.ProcessEnv = process.env): TelegramC
 }
 
 const IMAGE_HEADERS = {
-  "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "User-Agent": BROWSER_USER_AGENT,
   Accept: "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
   Referer: "https://www.emlakjet.com/",
 };
