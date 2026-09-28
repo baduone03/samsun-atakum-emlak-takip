@@ -4,9 +4,12 @@
  */
 import { REQUEST_DELAY_MS, REQUEST_RETRIES, REQUEST_TIMEOUT_MS } from "./config.ts";
 
+/** Emlakjet'e (sayfa ve gorsel) giden tum isteklerde kullanilan tarayici kimligi. */
+export const BROWSER_USER_AGENT =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
+
 const BROWSER_HEADERS = {
-  "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+  "User-Agent": BROWSER_USER_AGENT,
   Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
   "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
   "Cache-Control": "no-cache",
