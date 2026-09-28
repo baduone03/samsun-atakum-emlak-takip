@@ -152,6 +152,11 @@ Fiyat artışları bildirilmez.
 - **İstek yükü**: 24 liste URL'i (2 işlem türü × 2 mahalle × 3 oda tipi × sahibinden varyantı)
   + sayfalama ≈ 55 istek, aralarında 1,5 sn. Detay sayfası yalnızca daha önce görülmemiş ilanlar
   için ve koşu başına en fazla 40 tane çekilir; ilk koşudan sonra bu sayı sıfıra yaklaşır.
+- **Otomatik kod incelemesi**: her PR açıldığında veya güncellendiğinde
+  [Open Code Review](https://github.com/alibaba/open-code-review) değişiklikleri inceleyip Türkçe
+  satır yorumları ve bir özet bırakır ([.github/workflows/ocr-review.yml](.github/workflows/ocr-review.yml)).
+  LLM olarak ücretsiz GitHub Models kullanılır; secret gerekmez. PR'a `/open-code-review` yazmak
+  incelemeyi yeniden başlatır.
 - **Neden oda filtresi**: Körfez Mahallesi'nde tek başına 900'den fazla satılık daire ilanı var.
   Filtresiz tarama sayfa limitine takılıp sonuçları kesiyordu. `?filtreler=oda-sayisi=1-1` gibi
   oda bazlı tarama hem tam kapsama veriyor hem de daha az istek atıyor
