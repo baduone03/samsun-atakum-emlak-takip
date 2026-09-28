@@ -131,3 +131,15 @@ jobs:
           base_ref: ${{ steps.pr-context.outputs.base_ref }}
           head_sha: ${{ steps.pr-context.outputs.head_sha }}
           language: Turkish
+
+      # OCR tam hata metnini yalnizca oturum dosyasina yazar (sonuc JSON'unda
+      # sadece genel bir neden olur). Inceleme basarisiz olursa bu dosyalari
+      # artifact olarak yukle ki sebep gorulebilsin.
+      - name: OCR oturum loglarini yukle (hata durumunda)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ocr-session-${{ github.run_id }}-${{ github.run_attempt }}
+          path: ~/.opencodereview/sessions
+          if-no-files-found: ignore
+          retention-days: 3
