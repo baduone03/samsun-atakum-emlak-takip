@@ -6,14 +6,14 @@
 #
 # Kaynak: https://github.com/alibaba/open-code-review/tree/main/examples/github_actions
 #
-# Required secrets/vars (Settings -> Secrets and variables -> Actions):
-#   secret    OCR_LLM_URL            LLM API endpoint
-#   secret    OCR_LLM_AUTH_TOKEN     LLM auth token (mapped to OCR_LLM_TOKEN)
-#   variable  OCR_LLM_MODEL          model name
-#   variable  OCR_LLM_USE_ANTHROPIC  'true' for Anthropic, 'false' for OpenAI-compatible
+# Ucretsiz calisir: LLM olarak GitHub Models kullanilir ve workflow'un kendi
+# GITHUB_TOKEN'i ile kimlik dogrulanir. Ek API anahtari veya secret gerekmez.
+# GitHub Models ucretsiz kotasi sinirlidir (gunluk istek ve istek basina token
+# limiti); cok buyuk PR'larda inceleme yarida kalabilir.
+#   https://docs.github.com/en/github-models/use-github-models/prototyping-with-ai-models#rate-limits
 #
 # For the full list of action inputs/outputs and the four comment-posting modes
-# (sticky / incremental), see action.yml at the repo root.
+# (sticky / incremental), see action.yml in alibaba/open-code-review.
 
 name: OpenCodeReview PR Review
 
@@ -67,6 +67,8 @@ on:
 permissions:
   contents: read
   pull-requests: write
+  # GitHub Models'i GITHUB_TOKEN ile cagirmak icin.
+  models: read
 
 jobs:
   code-review:
@@ -115,10 +117,15 @@ jobs:
       - name: Run OpenCodeReview
         uses: alibaba/open-code-review@main
         with:
-          llm_url: ${{ secrets.OCR_LLM_URL }}
-          llm_auth_token: ${{ secrets.OCR_LLM_AUTH_TOKEN }}
-          llm_model: ${{ vars.OCR_LLM_MODEL }}
-          llm_use_anthropic: ${{ vars.OCR_LLM_USE_ANTHROPIC }}
+          llm_url: https://models.github.ai/inference/chat/completions
+          llm_auth_token: ${{ github.token }}
+          # Istenirse repo degiskeni OCR_LLM_MODEL ile baska bir GitHub Models
+          # modeli secilebilir (https://github.com/marketplace/models).
+          llm_model: ${{ vars.OCR_LLM_MODEL || 'openai/gpt-4.1-mini' }}
+          llm_use_anthropic: 'false'
+          # Varsayilan '{"thinking": ...}' govdesi OpenAI uyumlu GitHub Models
+          # tarafindan taninmiyor; bos gonderilir.
+          llm_extra_body: '{}'
           # For issue_comment triggers, pass the resolved refs; for
           # pull_request_target the action resolves them from the event.
           base_ref: ${{ steps.pr-context.outputs.base_ref }}
