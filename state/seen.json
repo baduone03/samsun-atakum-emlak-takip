@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T22:00:44.459Z",
+  "updatedAt": "2026-09-29T08:30:38.736Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -33058,7 +33058,7 @@
       }
     },
     "19865237": {
-      "price": 18500,
+      "price": 18000,
       "firstSeenAt": "2026-09-17T21:24:00.473Z",
       "detail": {
         "coordinates": {
@@ -36054,6 +36054,41 @@
         "transport": []
       }
     },
+    "19910308": {
+      "price": 16000,
+      "firstSeenAt": "2026-09-29T08:30:38.736Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35686614067303,
+          "lng": 36.23437799968356
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "29 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "400 TL",
+          "Depozito": "16000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
+      }
+    },
     "19911249": {
       "price": 18000,
       "firstSeenAt": "2026-09-28T15:28:04.972Z",
@@ -36133,6 +36168,41 @@
           "Tramvay",
           "Dolmuş"
         ]
+      }
+    },
+    "19914436": {
+      "price": 22000,
+      "firstSeenAt": "2026-09-29T08:30:38.736Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35680795573599,
+          "lng": 36.234552145187216
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "29 Eylül 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "400 TL",
+          "Depozito": "22000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "1"
+        },
+        "transport": []
       }
     }
   }
