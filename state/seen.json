@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T13:14:37.698Z",
+  "updatedAt": "2026-10-01T18:54:35.778Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -6558,7 +6558,7 @@
       }
     },
     "19370471": {
-      "price": 13249,
+      "price": 13240,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -26323,7 +26323,7 @@
       }
     },
     "19768527": {
-      "price": 24500,
+      "price": 23000,
       "firstSeenAt": "2026-08-25T14:04:30.293Z",
       "detail": {
         "coordinates": {
@@ -35586,7 +35586,7 @@
       }
     },
     "19900995": {
-      "price": 2250000,
+      "price": 2150000,
       "firstSeenAt": "2026-09-25T13:48:02.072Z",
       "detail": {
         "coordinates": {
@@ -37563,6 +37563,78 @@
           "Bina Yaşı": "1"
         },
         "transport": []
+      }
+    },
+    "19927344": {
+      "price": 2300000,
+      "firstSeenAt": "2026-10-01T18:54:35.778Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35461110628603,
+          "lng": 36.22793737951691
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "01 Ekim 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "45 m²",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": []
+      }
+    },
+    "19928540": {
+      "price": 13000,
+      "firstSeenAt": "2026-10-01T18:54:35.778Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.340907933563784,
+          "lng": 36.2483536452055
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "01 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "65 m²",
+          "Net": "58 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "2",
+          "Bina Yaşı": "1"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Okula Yakın",
+          "Tramvay"
+        ]
       }
     }
   }
