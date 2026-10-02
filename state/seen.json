@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02T15:49:44.936Z",
+  "updatedAt": "2026-10-02T20:45:17.642Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -20086,7 +20086,7 @@
       }
     },
     "19672694": {
-      "price": 11000,
+      "price": 10500,
       "firstSeenAt": "2026-09-01T10:06:45.571Z",
       "detail": {
         "coordinates": {
@@ -37993,6 +37993,89 @@
         "transport": [
           "Okula Yakın",
           "Dolmuş"
+        ]
+      }
+    },
+    "19932029": {
+      "price": 14000,
+      "firstSeenAt": "2026-10-02T20:45:17.642Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.357572198791246,
+          "lng": 36.223686167321375
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "02 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "14000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "40 m²",
+          "Net": "35 m²",
+          "Bulunduğu Kat": "1.Kat",
+          "Kat Sayısı": "3",
+          "Bina Yaşı": "1"
+        },
+        "transport": [
+          "Anayol",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay"
+        ]
+      }
+    },
+    "19933455": {
+      "price": 2375000,
+      "firstSeenAt": "2026-10-02T20:45:17.642Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.362009664571715,
+          "lng": 36.22078074680457
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "02 Ekim 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Kiracı Oturuyor",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "1780",
+          "Parsel": "15",
+          "Takas": "Var",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "2"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Otobüs",
+          "Dolmuş",
+          "Minibüs"
         ]
       }
     }
