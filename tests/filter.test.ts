@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 
-import { evaluate, isGroundFloor } from "../src/filter.ts";
+import { evaluate, excludedFloorReason, isFirstFloor, isGroundFloor } from "../src/filter.ts";
 import { PRICE_LIMITS } from "../src/config.ts";
 import { makeListing } from "./helpers.ts";
 
@@ -13,9 +13,19 @@ test("giris/zemin kat varyantlari elenir", () => {
   }
 });
 
+test("1. kat varyantlari elenir", () => {
+  for (const floor of ["1. Kat", "1.Kat", "1 Kat", "Kat 1", "Birinci Kat"]) {
+    assert.equal(isFirstFloor(floor), true, `${floor} 1. kat sayilmali`);
+    assert.equal(evaluate(makeListing({ floorText: floor })).level, "reject");
+    assert.ok(excludedFloorReason(floor));
+  }
+});
+
 test("normal katlar gecer", () => {
-  for (const floor of ["1. Kat", "3. Kat", "9. Kat", "Ara Kat", "Çatı Katı", "2.Kat"]) {
+  for (const floor of ["2. Kat", "3. Kat", "9. Kat", "10.Kat", "11. Kat", "21. Kat", "Ara Kat", "Çatı Katı", "2.Kat"]) {
     assert.equal(isGroundFloor(floor), false, `${floor} giris kat sayilmamali`);
+    assert.equal(isFirstFloor(floor), false, `${floor} 1. kat sayilmamali`);
+    assert.equal(excludedFloorReason(floor), null);
     assert.equal(evaluate(makeListing({ floorText: floor })).level, "exact");
   }
 });

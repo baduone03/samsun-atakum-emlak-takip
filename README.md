@@ -15,7 +15,7 @@ GitHub Actions üzerinde çalışır — bilgisayarın kapalıyken de tarama dev
 | Oda | `1+1`, `2+1` |
 | Kiralık üst sınır | **25.000 TL** |
 | Satılık üst sınır | **2.200.000 TL** |
-| Kat | Giriş / zemin / bodrum / bahçe katı **hariç** |
+| Kat | Giriş / zemin / bodrum / bahçe katı ve **1. kat hariç** |
 | Tercih | Sahibinden ilanlar öne çıkar (emlakçı komisyonu yok) |
 | Konum tercihi | Tramvay ile deniz arası; tramvaya 10–15 dk yürüme mesafesi |
 

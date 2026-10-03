@@ -4,6 +4,7 @@
  */
 import {
   EXACT_ROOM_TYPES,
+  FIRST_FLOOR_PATTERN,
   GROUND_FLOOR_PATTERN,
   NEAR_MATCH_PRICE_TOLERANCE,
   NEAR_ROOM_TYPES,
@@ -32,6 +33,22 @@ export function isGroundFloor(floorText: string | null): boolean | null {
   return GROUND_FLOOR_PATTERN.test(floorText);
 }
 
+/** 1. kat mi. Kat bilgisi yoksa "bilinmiyor" (null) doner. */
+export function isFirstFloor(floorText: string | null): boolean | null {
+  if (!floorText) return null;
+  return FIRST_FLOOR_PATTERN.test(floorText);
+}
+
+/**
+ * Kullanicinin istemedigi kat icin eleme sebebi, istenen katsa null.
+ * Hem liste sayfasindaki kat metni hem de detaydaki "Bulunduğu Kat" icin kullanilir.
+ */
+export function excludedFloorReason(floorText: string | null): string | null {
+  if (isGroundFloor(floorText)) return `giris/zemin kat: ${floorText}`;
+  if (isFirstFloor(floorText)) return `1. kat: ${floorText}`;
+  return null;
+}
+
 export function evaluate(listing: Listing): FilterResult {
   const nearReasons: string[] = [];
   const warnings: string[] = [];
@@ -46,13 +63,13 @@ export function evaluate(listing: Listing): FilterResult {
     return reject(`mahalle disi: ${listing.neighborhood ?? "bilinmiyor"}`);
   }
 
-  // Giris/zemin kat kesin eleme. Kat belirtilmemisse elemiyoruz ama uyariyoruz.
-  const groundFloor = isGroundFloor(listing.floorText);
-  if (groundFloor === true) {
-    return reject(`giris/zemin kat: ${listing.floorText}`);
+  // Giris/zemin kat ve 1. kat kesin eleme. Kat belirtilmemisse elemiyoruz ama uyariyoruz.
+  const floorReason = excludedFloorReason(listing.floorText);
+  if (floorReason) {
+    return reject(floorReason);
   }
-  if (groundFloor === null) {
-    warnings.push("Kat bilgisi ilanda belirtilmemiş — giriş kat olabilir");
+  if (!listing.floorText) {
+    warnings.push("Kat bilgisi ilanda belirtilmemiş — giriş ya da 1. kat olabilir");
   }
 
   if (!listing.rooms) {

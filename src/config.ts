@@ -46,6 +46,13 @@ export const ROOM_FILTERS: Record<string, string> = {
 export const GROUND_FLOOR_PATTERN =
   /zemin|giri[sş]|bodrum|bah[çc]e\s*kat|kot\s*-?\d|yar[ıi]\s*bodrum|teras\s*kat[ıi]?\s*giri[sş]/i;
 
+/**
+ * 1. kati eleyen desen. Kullanici giris katla birlikte 1. kati da istemedigini
+ * belirtti. "1. Kat", "1.Kat", "1 Kat", "Kat 1" yakalanir; "10. Kat", "11.Kat"
+ * yakalanmaz.
+ */
+export const FIRST_FLOOR_PATTERN = /(^|[^\d])1\s*\.?\s*kat|kat\s*:?\s*1(?!\d)|birinci\s*kat/i;
+
 /** Yurume hizi ve dolambac payi - kus ucusu mesafeyi dakikaya cevirmek icin. */
 export const WALKING_SPEED_M_PER_MIN = 80;
 export const WALKING_DETOUR_FACTOR = 1.3;

@@ -106,7 +106,7 @@ test("yakin eslesme sebebi ve uyarilar mesaja girer", () => {
       scored: {
         match: "near",
         nearReasons: ["Bütçeyi 2.000 TL aşıyor"],
-        warnings: ["Kat bilgisi ilanda belirtilmemiş — giriş kat olabilir"],
+        warnings: ["Kat bilgisi ilanda belirtilmemiş — giriş ya da 1. kat olabilir"],
       },
     }),
     NOW,

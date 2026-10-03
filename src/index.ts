@@ -6,7 +6,7 @@
  */
 import { MAX_DETAIL_FETCHES_PER_RUN, MAX_MESSAGES_PER_RUN } from "./config.ts";
 import { EMPTY_DETAIL, hasDetail } from "./emlakjet/detailPage.ts";
-import { evaluate, type FilterResult } from "./filter.ts";
+import { evaluate, excludedFloorReason, type FilterResult } from "./filter.ts";
 import { buildMessage, buildOverflowSummary, escapeHtml } from "./format.ts";
 import { describeLocation } from "./geo.ts";
 import { BlockedError } from "./http.ts";
@@ -78,6 +78,11 @@ async function buildScoredListings(listings: Listing[], state: State): Promise<S
       detail = await fetchDetail(listing);
       detailFetches++;
     }
+
+    // Liste sayfasindaki kat metni eksik ya da yaniltici olabilir; detaydaki
+    // "Bulunduğu Kat" istenmeyen bir kat diyorsa ilan yine elenir.
+    const detailFloor = detail.specs["Bulunduğu Kat"] ?? null;
+    if (excludedFloorReason(detailFloor)) continue;
 
     const geo = detail.coordinates
       ? describeLocation(detail.coordinates, detail.coordinatesExact)
