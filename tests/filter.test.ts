@@ -1,8 +1,9 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 
-import { evaluate, excludedFloorReason, isFirstFloor, isGroundFloor } from "../src/filter.ts";
-import { PRICE_LIMITS } from "../src/config.ts";
+import { evaluate, excludedFloorReason, isFirstFloor, isGroundFloor, tramTooFarReason } from "../src/filter.ts";
+import { PRICE_LIMITS, TRAM_MAX_MINUTES } from "../src/config.ts";
+import type { GeoInfo } from "../src/types.ts";
 import { makeListing } from "./helpers.ts";
 
 test("giris/zemin kat varyantlari elenir", () => {
@@ -90,4 +91,13 @@ test("birden fazla yakin eslesme sebebi birikir", () => {
   );
   assert.equal(result.level, "near");
   assert.equal(result.nearReasons.length, 2);
+});
+
+test("tramvaya 10 dk'dan uzak ilanlar elenir, konum yoksa elenmez", () => {
+  const geoAt = (minutes: number) => ({ stationWalkMinutes: minutes }) as GeoInfo;
+
+  assert.equal(tramTooFarReason(geoAt(8)), null);
+  assert.equal(tramTooFarReason(geoAt(TRAM_MAX_MINUTES)), null);
+  assert.match(tramTooFarReason(geoAt(TRAM_MAX_MINUTES + 1))!, /tramvaya uzak/);
+  assert.equal(tramTooFarReason(null), null);
 });

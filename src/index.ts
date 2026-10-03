@@ -6,7 +6,7 @@
  */
 import { MAX_DETAIL_FETCHES_PER_RUN, MAX_MESSAGES_PER_RUN } from "./config.ts";
 import { EMPTY_DETAIL, hasDetail } from "./emlakjet/detailPage.ts";
-import { evaluate, excludedFloorReason, type FilterResult } from "./filter.ts";
+import { evaluate, excludedFloorReason, tramTooFarReason, type FilterResult } from "./filter.ts";
 import { buildMessage, buildOverflowSummary, escapeHtml } from "./format.ts";
 import { describeLocation } from "./geo.ts";
 import { BlockedError } from "./http.ts";
@@ -74,7 +74,11 @@ async function buildScoredListings(listings: Listing[], state: State): Promise<S
     const cached = state.listings[listing.id]?.detail;
     let detail = cached ?? EMPTY_DETAIL;
 
-    if (!(cached && hasDetail(cached)) && detailFetches < MAX_DETAIL_FETCHES_PER_RUN) {
+    if (!(cached && hasDetail(cached))) {
+      // Tramvay mesafesi kesin kriter; detay (koordinat) olmadan karar
+      // verilemez. Butce dolduysa ilan bu kosuda atlanir ve kayda gecmez,
+      // boylece sonraki kosuda detayi cekilip degerlendirilir.
+      if (detailFetches >= MAX_DETAIL_FETCHES_PER_RUN) continue;
       detail = await fetchDetail(listing);
       detailFetches++;
     }
@@ -87,6 +91,11 @@ async function buildScoredListings(listings: Listing[], state: State): Promise<S
     const geo = detail.coordinates
       ? describeLocation(detail.coordinates, detail.coordinatesExact)
       : null;
+    if (tramTooFarReason(geo)) continue;
+
+    const warnings = [...result.warnings];
+    if (!geo) warnings.push("Konum bilinmiyor — tramvay mesafesi kontrol edilemedi");
+
     const { score, breakdown } = scoreListing(listing, geo, listing.floorText !== null);
 
     scored.push({
@@ -97,7 +106,7 @@ async function buildScoredListings(listings: Listing[], state: State): Promise<S
       nearReasons: result.nearReasons,
       score,
       breakdown,
-      warnings: result.warnings,
+      warnings,
     });
   }
 

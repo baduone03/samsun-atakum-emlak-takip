@@ -17,7 +17,8 @@ GitHub Actions üzerinde çalışır — bilgisayarın kapalıyken de tarama dev
 | Satılık üst sınır | **2.200.000 TL** |
 | Kat | Giriş / zemin / bodrum / bahçe katı ve **1. kat hariç** |
 | Tercih | Sahibinden ilanlar öne çıkar (emlakçı komisyonu yok) |
-| Konum tercihi | Tramvay ile deniz arası; tramvaya 10–15 dk yürüme mesafesi |
+| Tramvay | Durağa en fazla **10 dk** yürüme (8 dk ve altı ekstra puan); uzağı **hariç** |
+| Konum tercihi | Tramvay ile deniz arası |
 
 **Yakın eşleşme** (`🟡` etiketiyle ayrı gösterilir): fiyatı üst sınırı en fazla %10 aşan
 veya `3+1` olan ilanlar. Kat ve mahalle kuralları burada da geçerlidir.

@@ -12,7 +12,7 @@ import {
   PRICE_LIMITS,
   SCORE_WEIGHTS,
   TRAM_NEAR_MINUTES,
-  TRAM_OK_MINUTES,
+  TRAM_MAX_MINUTES,
   WELL_UNDER_BUDGET_RATIO,
 } from "./config.ts";
 import type { GeoInfo, Listing, ScoreBreakdown } from "./types.ts";
@@ -40,7 +40,7 @@ function geoBreakdown(geo: GeoInfo): ScoreBreakdown[] {
       label: `Tramvaya ${geo.stationWalkMinutes} dk${suffix}`,
       points: distancePoints(SCORE_WEIGHTS.tramNear, geo),
     });
-  } else if (geo.stationWalkMinutes <= TRAM_OK_MINUTES) {
+  } else if (geo.stationWalkMinutes <= TRAM_MAX_MINUTES) {
     items.push({
       label: `Tramvaya ${geo.stationWalkMinutes} dk${suffix}`,
       points: distancePoints(SCORE_WEIGHTS.tramOk, geo),

@@ -59,10 +59,11 @@ export const WALKING_DETOUR_FACTOR = 1.3;
 
 /**
  * Tramvay esikleri yurume dakikasi cinsinden - kullanicinin istegi
- * "10 dk, azami 15 dk yurume mesafesi" seklindeydi.
+ * "tramvay duragina en fazla 8-10 dk yurume" seklinde.
+ * TRAM_MAX_MINUTES kesin sinirdir: bunu asan ilanlar elenir.
  */
-export const TRAM_NEAR_MINUTES = 10;
-export const TRAM_OK_MINUTES = 15;
+export const TRAM_NEAR_MINUTES = 8;
+export const TRAM_MAX_MINUTES = 10;
 
 /** Sahil esikleri (yurume dakikasi). */
 export const COAST_NEAR_MINUTES = 8;

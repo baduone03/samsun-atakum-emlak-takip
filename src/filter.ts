@@ -4,6 +4,7 @@
  */
 import {
   EXACT_ROOM_TYPES,
+  TRAM_MAX_MINUTES,
   FIRST_FLOOR_PATTERN,
   GROUND_FLOOR_PATTERN,
   NEAR_MATCH_PRICE_TOLERANCE,
@@ -11,7 +12,7 @@ import {
   PRICE_LIMITS,
   SEARCH_AREAS,
 } from "./config.ts";
-import type { Listing, MatchLevel } from "./types.ts";
+import type { GeoInfo, Listing, MatchLevel } from "./types.ts";
 
 export type FilterResult = {
   level: MatchLevel;
@@ -97,4 +98,13 @@ export function evaluate(listing: Listing): FilterResult {
     rejectReason: null,
     warnings,
   };
+}
+
+/**
+ * Tramvay duragina yurume suresi siniri asiyorsa eleme sebebi, yoksa null.
+ * Koordinat yoksa mesafe bilinemez; ilan elenmez.
+ */
+export function tramTooFarReason(geo: GeoInfo | null): string | null {
+  if (!geo || geo.stationWalkMinutes <= TRAM_MAX_MINUTES) return null;
+  return `tramvaya uzak: ${geo.stationWalkMinutes} dk > ${TRAM_MAX_MINUTES} dk`;
 }
