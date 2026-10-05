@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T23:10:17.542Z",
+  "updatedAt": "2026-10-05T09:04:16.956Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -6630,7 +6630,7 @@
       }
     },
     "19370471": {
-      "price": 13150,
+      "price": 13500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -33762,7 +33762,7 @@
       }
     },
     "19870592": {
-      "price": 15000,
+      "price": 14500,
       "firstSeenAt": "2026-09-19T10:59:09.244Z",
       "detail": {
         "coordinates": {
@@ -35560,7 +35560,7 @@
       }
     },
     "19900332": {
-      "price": 16500,
+      "price": 16000,
       "firstSeenAt": "2026-09-27T13:59:15.198Z",
       "detail": {
         "coordinates": {
@@ -38476,6 +38476,51 @@
           "Camiye Yakın",
           "Tramvay",
           "Minibüs"
+        ]
+      }
+    },
+    "19940999": {
+      "price": 17000,
+      "firstSeenAt": "2026-10-05T09:04:16.956Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36396894175895,
+          "lng": 36.22471391446959
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "05 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "500 TL",
+          "Depozito": "10000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "1"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs",
+          "Tren İstasyonu"
         ]
       }
     }
