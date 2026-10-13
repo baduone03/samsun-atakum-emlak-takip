@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T15:25:01.715Z",
+  "updatedAt": "2026-10-13T11:48:05.729Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -39676,7 +39676,7 @@
       }
     },
     "19967426": {
-      "price": 16500,
+      "price": 15500,
       "firstSeenAt": "2026-10-11T15:41:04.679Z",
       "detail": {
         "coordinates": {
@@ -39894,6 +39894,41 @@
           "Tramvay",
           "Dolmuş"
         ]
+      }
+    },
+    "19972878": {
+      "price": 14000,
+      "firstSeenAt": "2026-10-13T11:48:05.729Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.34364700317383,
+          "lng": 36.245365142822266
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "13 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Yok",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bulunduğu Kat": "4.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "5"
+        },
+        "transport": []
       }
     }
   }
