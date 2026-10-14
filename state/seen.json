@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T15:09:38.219Z",
+  "updatedAt": "2026-10-14T19:23:52.325Z",
   "listings": {
     "16705618": {
       "price": 15500,
@@ -40106,6 +40106,46 @@
           "Camiye Yakın",
           "Tramvay",
           "Minibüs"
+        ]
+      }
+    },
+    "19981284": {
+      "price": 2350000,
+      "firstSeenAt": "2026-10-14T19:23:52.325Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35402769363831,
+          "lng": 36.227710425921245
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "14 Ekim 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Evet",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "5585",
+          "Parsel": "3",
+          "Takas": "Var",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "6",
+          "Bina Yaşı": "0 (Oturuma Hazır)"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Tramvay"
         ]
       }
     }
