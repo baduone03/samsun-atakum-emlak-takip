@@ -1,7 +1,43 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T20:42:58.532Z",
+  "updatedAt": "2026-10-18T23:12:17.702Z",
   "listings": {
+    "13385477": {
+      "price": 16500,
+      "firstSeenAt": "2026-10-18T23:12:17.702Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.368608421201124,
+          "lng": 36.22262690216303
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "19 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "1",
+          "Tapu Durumu": "Kooperatiften Tapu",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bulunduğu Kat": "5.Kat",
+          "Kat Sayısı": "6",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": []
+      }
+    },
     "16705618": {
       "price": 15500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
@@ -34,6 +70,43 @@
           "Brüt": "60 m²",
           "Net": "50 m²",
           "Bina Yaşı": "1"
+        },
+        "transport": []
+      }
+    },
+    "17020779": {
+      "price": 16500,
+      "firstSeenAt": "2026-10-18T23:12:17.702Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36287812283389,
+          "lng": 36.22662842273712
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "19 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Yok",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "WC Sayısı": "2",
+          "Tapu Durumu": "Kooperatiften Tapu",
+          "Yapı Durumu": "İkinci El",
+          "Yapı Tipi": "Betonarme",
+          "Depozito": "14000 TL",
+          "Asansör": "Yok",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "6-10"
         },
         "transport": []
       }
@@ -36118,7 +36191,7 @@
       }
     },
     "19901946": {
-      "price": 17500,
+      "price": 17000,
       "firstSeenAt": "2026-09-25T13:48:02.072Z",
       "detail": {
         "coordinates": {
