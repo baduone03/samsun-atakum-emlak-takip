@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T07:39:39.720Z",
+  "updatedAt": "2026-10-21T13:48:38.508Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -34644,7 +34644,7 @@
       }
     },
     "19881134": {
-      "price": 2390000,
+      "price": 2350000,
       "firstSeenAt": "2026-10-12T15:25:01.715Z",
       "detail": {
         "coordinates": {
@@ -39502,7 +39502,7 @@
       }
     },
     "19956710": {
-      "price": 16000,
+      "price": 15000,
       "firstSeenAt": "2026-10-08T15:37:26.332Z",
       "detail": {
         "coordinates": {
@@ -40689,7 +40689,7 @@
       }
     },
     "19991220": {
-      "price": 21000,
+      "price": 20000,
       "firstSeenAt": "2026-10-17T11:38:08.433Z",
       "detail": {
         "coordinates": {
@@ -41095,6 +41095,40 @@
           "Tramvay",
           "Minibüs"
         ]
+      }
+    },
+    "20006389": {
+      "price": 15500,
+      "firstSeenAt": "2026-10-21T13:48:38.508Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.363322164697266,
+          "lng": 36.22450745771484
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "21 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Evet",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "15500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": []
       }
     }
   }
