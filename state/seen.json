@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T18:33:15.222Z",
+  "updatedAt": "2026-10-23T07:32:23.168Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -35840,7 +35840,7 @@
       }
     },
     "19896870": {
-      "price": 11200,
+      "price": 11000,
       "firstSeenAt": "2026-09-24T19:10:42.042Z",
       "detail": {
         "coordinates": {
@@ -41172,6 +41172,94 @@
         "coordinatesExact": false,
         "address": null,
         "specs": {},
+        "transport": []
+      }
+    },
+    "20013885": {
+      "price": 18500,
+      "firstSeenAt": "2026-10-23T07:32:23.168Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.34307737070635,
+          "lng": 36.24449873859452
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "177",
+          "Parsel": "12",
+          "Aidat": "650 TL",
+          "Asansör": "Var",
+          "Mutfak": "Kapalı",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "6-10",
+          "Evli nüfus oranı": "68%",
+          "0-24 yaş arası": "34%",
+          "Üniversite ve üzeri": "42%",
+          "Kadın nüfus oranı": "52%",
+          "62% Hemşehrilik": "SAMSUN"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
+    "20014111": {
+      "price": 20500,
+      "firstSeenAt": "2026-10-23T07:32:23.168Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.360573233813845,
+          "lng": 36.22883547663656
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "23 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Kiracı Oturuyor",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "60 m²",
+          "Net": "51 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "3",
+          "Evli nüfus oranı": "26%",
+          "0-24 yaş arası": "58%",
+          "Üniversite ve üzeri": "27%",
+          "Kadın nüfus oranı": "58%",
+          "64% Hemşehrilik": "SAMSUN"
+        },
         "transport": []
       }
     }
