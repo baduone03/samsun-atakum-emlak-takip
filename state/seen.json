@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T13:03:19.906Z",
+  "updatedAt": "2026-10-26T19:19:32.728Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -34826,7 +34826,7 @@
       }
     },
     "19883106": {
-      "price": 14000,
+      "price": 13500,
       "firstSeenAt": "2026-09-22T09:58:02.161Z",
       "detail": {
         "coordinates": {
@@ -40650,7 +40650,7 @@
       }
     },
     "19989900": {
-      "price": 23000,
+      "price": 22000,
       "firstSeenAt": "2026-10-16T16:39:46.786Z",
       "detail": {
         "coordinates": {
@@ -41453,6 +41453,44 @@
           "Bulunduğu Kat": "4.Kat",
           "Kat Sayısı": "4",
           "Bina Yaşı": "26-30",
+          "Evli nüfus oranı": "26%",
+          "0-24 yaş arası": "58%",
+          "Üniversite ve üzeri": "27%",
+          "Kadın nüfus oranı": "58%",
+          "64% Hemşehrilik": "SAMSUN"
+        },
+        "transport": []
+      }
+    },
+    "20023851": {
+      "price": 18000,
+      "firstSeenAt": "2026-10-26T19:19:32.728Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.369824054321725,
+          "lng": 36.22570304845706
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "26 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık & Kapalı Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "4",
+          "Bina Yaşı": "6-10",
           "Evli nüfus oranı": "26%",
           "0-24 yaş arası": "58%",
           "Üniversite ve üzeri": "27%",
