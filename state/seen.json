@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T21:19:25.144Z",
+  "updatedAt": "2026-10-28T16:02:25.453Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -16174,7 +16174,7 @@
       }
     },
     "19603562": {
-      "price": 17750,
+      "price": 17500,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -37936,7 +37936,7 @@
       }
     },
     "19925038": {
-      "price": 1950000,
+      "price": 1945000,
       "firstSeenAt": "2026-10-01T13:14:37.698Z",
       "detail": {
         "coordinates": {
@@ -38943,7 +38943,7 @@
       }
     },
     "19941055": {
-      "price": 20000,
+      "price": 19500,
       "firstSeenAt": "2026-10-05T18:28:11.942Z",
       "detail": {
         "coordinates": {
@@ -40336,7 +40336,7 @@
       }
     },
     "19983436": {
-      "price": 17000,
+      "price": 16500,
       "firstSeenAt": "2026-10-15T13:26:41.823Z",
       "detail": {
         "coordinates": {
@@ -40650,7 +40650,7 @@
       }
     },
     "19989900": {
-      "price": 22000,
+      "price": 20000,
       "firstSeenAt": "2026-10-16T16:39:46.786Z",
       "detail": {
         "coordinates": {
@@ -41585,6 +41585,56 @@
           "64% Hemşehrilik": "SAMSUN"
         },
         "transport": []
+      }
+    },
+    "20033053": {
+      "price": 16500,
+      "firstSeenAt": "2026-10-28T16:02:25.453Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35987434247206,
+          "lng": 36.22860523583929
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "28 Ekim 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Aidat": "450 TL",
+          "Depozito": "16500 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "55 m²",
+          "Net": "47 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "3",
+          "Evli nüfus oranı": "26%",
+          "0-24 yaş arası": "58%",
+          "Üniversite ve üzeri": "27%",
+          "Kadın nüfus oranı": "58%",
+          "64% Hemşehrilik": "SAMSUN"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     }
   }
