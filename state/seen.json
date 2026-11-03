@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T10:52:45.043Z",
+  "updatedAt": "2026-11-03T18:26:59.132Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -40784,7 +40784,7 @@
       }
     },
     "19995672": {
-      "price": 19000,
+      "price": 18000,
       "firstSeenAt": "2026-10-21T18:39:10.600Z",
       "detail": {
         "coordinates": {
@@ -42136,6 +42136,49 @@
           "Hastaneye Yakın",
           "Okula Yakın",
           "Tramvay",
+          "Dolmuş"
+        ]
+      }
+    },
+    "20055060": {
+      "price": 13000,
+      "firstSeenAt": "2026-11-03T18:26:59.132Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35674237441888,
+          "lng": 36.22529424814384
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "İlan Güncelleme Tarihi": "03 Kasım 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Yerden Isıtma",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Depozito": "13000 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Banyo Sayısı": "1",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "3.Kat",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "1",
+          "Evli nüfus oranı": "26%",
+          "0-24 yaş arası": "58%",
+          "Üniversite ve üzeri": "27%",
+          "Kadın nüfus oranı": "58%",
+          "64% Hemşehrilik": "SAMSUN"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Anayol",
           "Dolmuş"
         ]
       }
