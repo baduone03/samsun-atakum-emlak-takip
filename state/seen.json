@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T00:16:58.433Z",
+  "updatedAt": "2026-11-06T15:02:55.430Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -22540,7 +22540,7 @@
       }
     },
     "19709679": {
-      "price": 20000,
+      "price": 18500,
       "firstSeenAt": "2026-08-17T01:56:02.364Z",
       "detail": {
         "coordinates": {
@@ -40623,7 +40623,7 @@
       }
     },
     "19987520": {
-      "price": 15000,
+      "price": 14000,
       "firstSeenAt": "2026-10-16T11:24:15.947Z",
       "detail": {
         "coordinates": {
@@ -41635,7 +41635,7 @@
       }
     },
     "20033053": {
-      "price": 16500,
+      "price": 16000,
       "firstSeenAt": "2026-10-28T16:02:25.453Z",
       "detail": {
         "coordinates": {
@@ -41820,7 +41820,7 @@
       }
     },
     "20041601": {
-      "price": 13750,
+      "price": 13000,
       "firstSeenAt": "2026-10-30T22:59:07.240Z",
       "detail": {
         "coordinates": {
@@ -42011,7 +42011,7 @@
       }
     },
     "20045990": {
-      "price": 22000,
+      "price": 21000,
       "firstSeenAt": "2026-11-01T13:23:43.818Z",
       "detail": {
         "coordinates": {
