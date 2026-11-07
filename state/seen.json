@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T00:57:00.756Z",
+  "updatedAt": "2026-11-07T14:01:46.279Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -21041,7 +21041,7 @@
       }
     },
     "19680668": {
-      "price": 2345000,
+      "price": 2340000,
       "firstSeenAt": "2026-09-07T16:28:14.412Z",
       "detail": {
         "coordinates": {
@@ -40271,7 +40271,7 @@
       }
     },
     "19981284": {
-      "price": 2350000,
+      "price": 2225000,
       "firstSeenAt": "2026-10-14T19:23:52.325Z",
       "detail": {
         "coordinates": {
@@ -42528,7 +42528,7 @@
       }
     },
     "20065435": {
-      "price": 16750,
+      "price": 17500,
       "firstSeenAt": "2026-11-06T00:16:58.433Z",
       "detail": {
         "coordinates": {
@@ -42563,6 +42563,108 @@
           "64% Hemşehrilik": "SAMSUN"
         },
         "transport": []
+      }
+    },
+    "20070242": {
+      "price": 15250,
+      "firstSeenAt": "2026-11-07T14:01:46.279Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.356338929750045,
+          "lng": 36.23212808529528
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "İlan Güncelleme Tarihi": "07 Kasım 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "1814",
+          "Parsel": "2",
+          "Depozito": "15250 TL",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Brüt": "60 m²",
+          "Net": "55 m²",
+          "Bulunduğu Kat": "5.Kat",
+          "Banyo Sayısı": "1",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "4"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
+    "20070265": {
+      "price": 2140000,
+      "firstSeenAt": "2026-11-07T14:01:46.279Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36399939121172,
+          "lng": 36.22331158525169
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "İlan Güncelleme Tarihi": "07 Kasım 2026",
+          "Kategori": "Satılık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Kiracı Oturuyor",
+          "Krediye Uygunluk": "Krediye Uygun",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Ada": "1669",
+          "Parsel": "17",
+          "Takas": "Yok",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Eşyalı",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Brüt": "60 m²",
+          "Net": "50 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Banyo Sayısı": "1",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "6-10"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
       }
     }
   }
