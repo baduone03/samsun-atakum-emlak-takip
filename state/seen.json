@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T14:01:46.279Z",
+  "updatedAt": "2026-11-07T18:48:38.235Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -41346,6 +41346,17 @@
           "Kadın nüfus oranı": "58%",
           "64% Hemşehrilik": "SAMSUN"
         },
+        "transport": []
+      }
+    },
+    "20021106": {
+      "price": 2295000,
+      "firstSeenAt": "2026-11-07T18:48:38.235Z",
+      "detail": {
+        "coordinates": null,
+        "coordinatesExact": false,
+        "address": null,
+        "specs": {},
         "transport": []
       }
     },
