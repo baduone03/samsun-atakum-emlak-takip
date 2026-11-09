@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T00:55:03.627Z",
+  "updatedAt": "2026-11-09T07:59:00.942Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -280,7 +280,7 @@
       }
     },
     "17486498": {
-      "price": 13500,
+      "price": 14000,
       "firstSeenAt": "2026-10-07T20:38:20.206Z",
       "detail": {
         "coordinates": {
@@ -26394,7 +26394,7 @@
       }
     },
     "19765211": {
-      "price": 26500,
+      "price": 24500,
       "firstSeenAt": "2026-08-24T19:00:02.516Z",
       "detail": {
         "coordinates": {
@@ -42840,6 +42840,45 @@
           "Banyo Sayısı": "1",
           "Kat Sayısı": "5",
           "Bina Yaşı": "2"
+        },
+        "transport": []
+      }
+    },
+    "20075783": {
+      "price": 12000,
+      "firstSeenAt": "2026-11-09T07:59:00.942Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36610770970635,
+          "lng": 36.22207468051466
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "İlan Güncelleme Tarihi": "09 Kasım 2026",
+          "Kategori": "Kiralık Daire",
+          "Isıtma Tipi": "Kombi Doğalgaz",
+          "Otopark": "Açık Otopark",
+          "Kullanım Durumu": "Boş",
+          "Site İçerisinde": "Hayır",
+          "Tapu Durumu": "Kat Mülkiyeti",
+          "Asansör": "Var",
+          "Mutfak": "Açık (Amerikan)",
+          "Eşya Durumu": "Boş",
+          "Balkon": "Var",
+          "Oda Sayısı": "1+1",
+          "Brüt": "50 m²",
+          "Net": "45 m²",
+          "Bulunduğu Kat": "2.Kat",
+          "Banyo Sayısı": "1",
+          "Kat Sayısı": "5",
+          "Bina Yaşı": "6-10"
         },
         "transport": []
       }
