@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T07:59:00.942Z",
+  "updatedAt": "2026-11-09T18:48:42.742Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -16221,7 +16221,7 @@
       }
     },
     "19603562": {
-      "price": 17450,
+      "price": 17400,
       "firstSeenAt": "2026-07-28T17:20:54.180Z",
       "detail": {
         "coordinates": {
@@ -41783,7 +41783,7 @@
       }
     },
     "20038034": {
-      "price": 16500,
+      "price": 16250,
       "firstSeenAt": "2026-10-29T20:17:48.297Z",
       "detail": {
         "coordinates": {
@@ -42192,6 +42192,29 @@
           "Anayol",
           "Dolmuş"
         ]
+      }
+    },
+    "20056553": {
+      "price": 20500,
+      "firstSeenAt": "2026-11-09T18:48:42.742Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35681135273154,
+          "lng": 36.22811000794172
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "90 m²",
+          "Net": "80 m²"
+        },
+        "transport": []
       }
     },
     "20057997": {
@@ -42881,6 +42904,39 @@
           "Bina Yaşı": "6-10"
         },
         "transport": []
+      }
+    },
+    "20078258": {
+      "price": 17000,
+      "firstSeenAt": "2026-11-09T18:48:42.742Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.3594763132221,
+          "lng": 36.23076143228084
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "60 m²",
+          "Net": "55 m²"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş",
+          "Minibüs"
+        ]
       }
     }
   }
