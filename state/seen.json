@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T11:06:52.078Z",
+  "updatedAt": "2026-11-12T18:55:49.387Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -43261,6 +43261,37 @@
           "Semt Pazarına Yakın",
           "Hastaneye Yakın",
           "Tramvay"
+        ]
+      }
+    },
+    "20091200": {
+      "price": 2250000,
+      "firstSeenAt": "2026-11-12T18:55:49.387Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36119797119919,
+          "lng": 36.222751578669815
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "45 m²",
+          "Net": "40 m²"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş"
         ]
       }
     }
