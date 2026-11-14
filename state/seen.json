@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T16:22:44.305Z",
+  "updatedAt": "2026-11-14T10:29:10.962Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -43395,6 +43395,128 @@
           "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
           "Brüt": "55 m²",
           "Net": "47 m²"
+        },
+        "transport": []
+      }
+    },
+    "20095887": {
+      "price": 19500,
+      "firstSeenAt": "2026-11-14T10:29:10.962Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35718141318514,
+          "lng": 36.22881934017714
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "55 m²",
+          "Net": "50 m²"
+        },
+        "transport": []
+      }
+    },
+    "20096132": {
+      "price": 20000,
+      "firstSeenAt": "2026-11-14T10:29:10.962Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.36224162025674,
+          "lng": 36.230512772893604
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "65 m²",
+          "Net": "55 m²"
+        },
+        "transport": []
+      }
+    },
+    "20096466": {
+      "price": 17000,
+      "firstSeenAt": "2026-11-14T10:29:10.962Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.361171725756066,
+          "lng": 36.225511316030094
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "52 m²",
+          "Net": "45 m²"
+        },
+        "transport": []
+      }
+    },
+    "20096649": {
+      "price": 16500,
+      "firstSeenAt": "2026-11-14T10:29:10.962Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.364351390642874,
+          "lng": 36.22640107264233
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "57 m²",
+          "Net": "50 m²"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Dolmuş"
+        ]
+      }
+    },
+    "20096836": {
+      "price": 2190000,
+      "firstSeenAt": "2026-11-14T10:29:10.962Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35366329262986,
+          "lng": 36.227730662639274
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "50 m²",
+          "Net": "40 m²"
         },
         "transport": []
       }
