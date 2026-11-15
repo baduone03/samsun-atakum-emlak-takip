@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T17:10:30.507Z",
+  "updatedAt": "2026-11-15T21:49:19.676Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -23713,7 +23713,7 @@
       }
     },
     "19725670": {
-      "price": 17750,
+      "price": 16500,
       "firstSeenAt": "2026-08-22T10:53:04.160Z",
       "detail": {
         "coordinates": {
@@ -43712,6 +43712,64 @@
           "Caddeye Yakın",
           "Anayol",
           "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
+    "20100912": {
+      "price": 23000,
+      "firstSeenAt": "2026-11-15T21:49:19.676Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.34119036601561,
+          "lng": 36.24866880476475
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "58 m²",
+          "Net": "55 m²"
+        },
+        "transport": []
+      }
+    },
+    "20100963": {
+      "price": 20000,
+      "firstSeenAt": "2026-11-15T21:49:19.676Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35787453804371,
+          "lng": 36.23166717102909
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "65 m²",
+          "Net": "55 m²"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Havaalanı",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "E-5",
+          "Dolmuş",
           "Minibüs"
         ]
       }
