@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T22:23:51.251Z",
+  "updatedAt": "2026-11-18T13:58:26.962Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -25299,7 +25299,7 @@
       }
     },
     "19746288": {
-      "price": 22000,
+      "price": 20000,
       "firstSeenAt": "2026-08-19T19:37:46.768Z",
       "detail": {
         "coordinates": {
@@ -43849,6 +43849,29 @@
           "Dolmuş",
           "Minibüs"
         ]
+      }
+    },
+    "20108331": {
+      "price": 18000,
+      "firstSeenAt": "2026-11-18T13:58:26.962Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.363334592446726,
+          "lng": 36.22441191226244
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "50 m²",
+          "Net": "45 m²"
+        },
+        "transport": []
       }
     }
   }
