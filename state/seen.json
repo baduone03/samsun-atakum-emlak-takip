@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T09:04:25.057Z",
+  "updatedAt": "2026-11-23T21:23:46.831Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -37881,7 +37881,7 @@
       }
     },
     "19920089": {
-      "price": 21000,
+      "price": 20500,
       "firstSeenAt": "2026-09-30T13:43:57.150Z",
       "detail": {
         "coordinates": {
@@ -40841,7 +40841,7 @@
       }
     },
     "19991220": {
-      "price": 20000,
+      "price": 21000,
       "firstSeenAt": "2026-10-17T11:38:08.433Z",
       "detail": {
         "coordinates": {
@@ -42649,7 +42649,7 @@
       }
     },
     "20065084": {
-      "price": 14500,
+      "price": 14000,
       "firstSeenAt": "2026-11-05T18:46:29.719Z",
       "detail": {
         "coordinates": {
@@ -44105,6 +44105,37 @@
           "Net": "50 m²"
         },
         "transport": []
+      }
+    },
+    "20129270": {
+      "price": 19000,
+      "firstSeenAt": "2026-11-23T21:23:46.831Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.35543563765767,
+          "lng": 36.229471924883825
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "60 m²",
+          "Net": "50 m²"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
       }
     }
   }
