@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T06:02:34.279Z",
+  "updatedAt": "2026-11-24T17:44:13.586Z",
   "listings": {
     "13385477": {
       "price": 16500,
@@ -22613,7 +22613,7 @@
       }
     },
     "19709679": {
-      "price": 18500,
+      "price": 20000,
       "firstSeenAt": "2026-08-17T01:56:02.364Z",
       "detail": {
         "coordinates": {
@@ -40299,6 +40299,29 @@
         "transport": []
       }
     },
+    "19978603": {
+      "price": 19000,
+      "firstSeenAt": "2026-11-24T17:44:13.586Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.363773632000594,
+          "lng": 36.22425947687278
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "50 m²",
+          "Net": "42 m²"
+        },
+        "transport": []
+      }
+    },
     "19979145": {
       "price": 14999,
       "firstSeenAt": "2026-10-14T15:09:38.219Z",
@@ -42736,7 +42759,7 @@
       }
     },
     "20070242": {
-      "price": 15250,
+      "price": 15000,
       "firstSeenAt": "2026-11-07T14:01:46.279Z",
       "detail": {
         "coordinates": {
@@ -44133,6 +44156,66 @@
           "Hastaneye Yakın",
           "Okula Yakın",
           "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
+    "20130676": {
+      "price": 23000,
+      "firstSeenAt": "2026-11-24T17:44:13.586Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.34038483413086,
+          "lng": 36.241416478125
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Atakent Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "145 m²",
+          "Net": "125 m²"
+        },
+        "transport": [
+          "Caddeye Yakın",
+          "Semt Pazarına Yakın",
+          "Anayol",
+          "Hastaneye Yakın",
+          "Okula Yakın",
+          "Camiye Yakın",
+          "Tramvay",
+          "Minibüs"
+        ]
+      }
+    },
+    "20131590": {
+      "price": 17000,
+      "firstSeenAt": "2026-11-24T17:44:13.586Z",
+      "detail": {
+        "coordinates": {
+          "lat": 41.365725619343834,
+          "lng": 36.22931212071944
+        },
+        "coordinatesExact": false,
+        "address": "Atakum - Körfez Mahallesi",
+        "specs": {
+          "1": "Gayrimenkul hakkında gerekli bilgiyi edindikten sonra görmeye gidin.",
+          "2": "Tanımadığınız şahıslara kesinlikle para göndermeyin.",
+          "3": "TC kimlik numarası veya cep telefonu vasıtasıyla yapılması istenen para transferlerini yapmayın.",
+          "4": "Satın alacağınız veya kiralayacağınız gayrimenkülü görmeden kesinlikle kapora vermeyin.",
+          "5": "Yaptığınız her ödemenin dekontunu veya ödemeyle ilgili belgeyi mutlaka saklayın.",
+          "6": "Satış veya kiralama sözleşmesinin her maddesini dikkatlice okuyun.",
+          "Brüt": "47 m²",
+          "Net": "45 m²"
+        },
+        "transport": [
+          "Semt Pazarına Yakın",
+          "Okula Yakın",
           "Tramvay",
           "Minibüs"
         ]
